@@ -30,9 +30,9 @@ Keep this table in your back pocket. For the rest of these lessons, whenever you
 
 ## Your task: see all three at once
 
-Let's watch the three parts team up in one tiny example. You will not type anything yet. You are just going to *look*, and let Claude Code point out which part is which.
+Let's watch the three parts team up in one tiny example. You will not type anything yet. You are just going to *look*, and let MILO point out which part is which.
 
-Copy this prompt and paste it to Claude Code:
+Copy this prompt and paste it to MILO in Claude Code:
 
 ```
 Show me the smallest possible web page that uses all three: HTML, CSS,
@@ -42,11 +42,11 @@ or the "muscles" (JavaScript), and what that part is doing. I am a
 complete beginner.
 ```
 
-When the answer comes back, read it slowly and match each labeled part to the table above. You are not memorizing anything. You are just training your eye to spot bones, clothes, and muscles.
+When MILO's answer comes back, read it slowly and match each labeled part to the table above. You are not memorizing anything. You are just training your eye to spot bones, clothes, and muscles.
 
-> Fun connection: the real app you will help test later, **GetAdvice**, is built from these same three parts — just a lot more of them, stacked together. Every big app starts from exactly what you are looking at right now.
+> Fun connection: **GetAdvice** — MILO's friendly face, and the real app you'll help test later — is built from these same three parts, just a lot more of them, stacked together. Every big app starts from exactly what you are looking at right now.
 
-## 🎉 You did it
+## 🎉 Milestone: you know what a web page is made of
 
 You now know the secret that every web page shares: **HTML is bones, CSS is clothes, JavaScript is muscles.** Structure, style, behavior. That one mental model will carry you through everything that comes next.
 

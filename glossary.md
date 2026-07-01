@@ -65,8 +65,11 @@ A mistake in your code that makes it behave in a way you did not want. Every cod
 **Browser**
 The app you use to look at web pages, like Chrome, Safari, or Firefox. Think of it like a window that turns code into the pages you see and click on.
 
+**MILO**
+Your friendly AI tutor — the brain behind the lessons. MILO greets you, explains things, reads the errors with you, and celebrates your wins. MILO is the brain; **GetAdvice** is MILO's friendly face, the app people use to talk to MILO. Think of MILO like a patient coding buddy sitting right next to you, ready to explain anything and help you build. That is the buddy this whole repo teaches you to work with.
+
 **Claude Code**
-Claude living inside your computer, able to read and write your real files and run commands for you. Think of it like a patient coding buddy sitting right next to you, ready to explain anything and help you build. That is the buddy this whole repo teaches you to work with.
+The app you open on your computer. It can read and write your real files and run commands for you. Think of it like the window where MILO lives: you open the repo in Claude Code, and MILO is right there to teach you.
 
 ---
 
@@ -78,13 +81,13 @@ You do **not** need these two yet. No lesson so far uses them. They are here jus
 A named box that holds a value you want to remember, like a number or some text. Think of it like a labeled jar. You put something in, write a name on the jar, and grab it later by that name.
 
 **Terminal**
-A text window where you type commands to your computer instead of clicking buttons. Think of it like sending short written instructions to your computer, and it writes back. It looks a little scary at first, then it becomes your friend. Good news: in these lessons you save your work by simply asking Claude Code, so you will not need the terminal for a long while.
+A text window where you type commands to your computer instead of clicking buttons. Think of it like sending short written instructions to your computer, and it writes back. It looks a little scary at first, then it becomes your friend. Good news: in these lessons you save your work by simply asking MILO, so you will not need the terminal for a long while.
 
 ---
 
 ## Still stuck on a word?
 
-If a word here is still fuzzy, that is completely fine. Paste this to Claude Code:
+If a word here is still fuzzy, that is completely fine. Paste this to MILO:
 
 ```
 I read this word in my learning repo but I still don't fully get it: [WORD].

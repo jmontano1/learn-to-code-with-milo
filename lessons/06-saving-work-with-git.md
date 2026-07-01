@@ -4,7 +4,7 @@ Welcome back! In [lessons/05-your-own-project.md](05-your-own-project.md) you bu
 
 Now let's make sure you never lose any of it.
 
-This lesson has one job: teach you how to **save your work in a way that remembers everything and backs it up online**. And the best part? You will do it by simply asking Claude.
+This lesson has one job: teach you how to **save your work in a way that remembers everything and backs it up online**. And the best part? You will do it by simply asking MILO.
 
 ---
 
@@ -47,7 +47,7 @@ There is more on these words in [glossary.md](../glossary.md) whenever you want 
 
 ## The three little steps (so you know what is happening)
 
-When you save work with git, three small things happen in order. You do **not** need to memorize the commands. But it helps to know the names, so when Claude explains it, the words feel friendly.
+When you save work with git, three small things happen in order. You do **not** need to memorize the commands. But it helps to know the names, so when MILO explains it, the words feel friendly.
 
 1. **Add** — you pick which changed files to include in this snapshot. Like choosing which photos go in the album.
 2. **Commit** — you take the snapshot and write a short note about it. Like pressing save and giving it a title.
@@ -57,9 +57,9 @@ Add, commit, push. That is the whole trip.
 
 ---
 
-## The easy, safe way: just ask Claude 🌟
+## The easy, safe way: just ask MILO 🌟
 
-Here is the good news. You do not have to type any of those commands yourself. Because you are working inside Claude Code, you can just **ask, in plain words**, and Claude will do the three steps for you.
+Here is the good news. You do not have to type any of those commands yourself. Because you are working inside Claude Code, you can just **ask, in plain words**, and MILO will do the three steps for you.
 
 Open Claude Code in your project and paste this:
 
@@ -72,17 +72,17 @@ and push my work to GitHub. Use a short, clear commit message that
 describes what I changed today.
 ```
 
-That is it. Claude will walk through add, commit, and push, and tell you what each step did.
+That is it. MILO will walk through add, commit, and push, and tell you what each step did.
 
 ---
 
-## Safety first: Claude explains before it acts 🛡️
+## Safety first: MILO explains before it acts 🛡️
 
 This part is important, so read it slowly.
 
-Claude will **tell you what it is about to do before it does it**. You are always in control. If anything looks confusing, you do not have to say yes.
+MILO will **tell you what it is about to do before it does it**. You are always in control. If anything looks confusing, you do not have to say yes.
 
-A good habit is to ask Claude to pause and explain. Try this if you ever feel unsure:
+A good habit is to ask MILO to pause and explain. Try this if you ever feel unsure:
 
 ```text
 Wait, before you save anything, list every file that changed and tell
@@ -100,10 +100,10 @@ Let's actually save today's work.
 
 1. Make sure you have made at least one small change to your project (even fixing a typo counts).
 2. Paste the first prompt above into Claude Code.
-3. Read Claude's explanation of the three steps as it goes.
-4. When it finishes, Claude will tell you the push succeeded.
+3. Read MILO's explanation of the three steps as it goes.
+4. When it finishes, MILO will tell you the push succeeded.
 
-Want to see the proof? Ask Claude:
+Want to see the proof? Ask MILO:
 
 ```text
 Give me the link to my project on GitHub so I can see my saved work

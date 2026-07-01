@@ -9,7 +9,7 @@ This is a template. A template is a fill-in-the-blank form, like a birthday card
 3. Write **one note per issue or idea.** If you found three things, make three separate notes. One thing per note keeps each report clear.
 4. If a field does not fit your issue, just leave it blank. That is fine.
 
-Not sure how to word something? Claude can help you turn rough notes into a clean report. There is an example prompt in [`lessons/07-giving-good-feedback.md`](../lessons/07-giving-good-feedback.md).
+Not sure how to word something? MILO can help you turn rough notes into a clean report. There is an example prompt in [`lessons/07-giving-good-feedback.md`](../lessons/07-giving-good-feedback.md).
 
 ---
 

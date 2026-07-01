@@ -6,6 +6,8 @@ A map does not tell you when you will arrive. It just shows the road, the big st
 
 You do not have to rush. There is no deadline here. You move to the next stage when the one you are on feels comfortable, not when a calendar tells you to.
 
+Along the whole road, **MILO teaches you** — MILO is the brain, your friendly AI tutor, and **GetAdvice** is MILO's friendly face, the app the family built so MILO can help people. You meet MILO here inside Claude Code; later you'll help make GetAdvice better.
+
 There are three stages: **Now**, **Next**, and **Later**. Read them like a short story about you.
 
 ---
@@ -14,9 +16,9 @@ There are three stages: **Now**, **Next**, and **Later**. Read them like a short
 
 **Where you are today.** You have Claude Pro and Claude Code. You are just getting started, and that is exactly the right place to be.
 
-> **Claude Pro** is your paid plan for talking to Claude. Think of it like a monthly pass to a gym. It lets you come in and train as much as your pass allows.
+> **Claude Pro** is your paid plan for talking to MILO. Think of it like a monthly pass to a gym. It lets you come in and train as much as your pass allows.
 >
-> **Claude Code** is Claude living inside your computer, able to read and write real files. Think of it like a helper who sits next to you at your desk, instead of one you only chat with through a window.
+> **Claude Code** is the app you open on your computer — that is the window where MILO lives, able to read and write real files right there beside you. Think of it like a room where your tutor sits next to you at your desk, instead of one you only chat with through a window.
 
 ### What you do now
 
@@ -47,7 +49,7 @@ When you can say "I made a page, I styled it, and I made it do something," you h
 
 - Build bigger personal projects in `my-projects/`. Not one page, but a few pages that work together. Pick things *you* actually want.
 - Get comfortable with the git save flow. Git is how developers save their work so it is never lost. Think of it like a save point in a video game: you can always go back to it. Learn it in `lessons/06-saving-work-with-git.md`.
-- Start giving GetAdvice feedback. GetAdvice is a real app that real people use. You test it and tell the team what felt good and what felt confusing. Learn how in `lessons/07-giving-good-feedback.md`, and use the template in `feedback-getadvice/feedback-template.md`.
+- Start giving GetAdvice feedback. GetAdvice is MILO's friendly face, and it is a real app that real people use. You test it and tell the team what felt good and what felt confusing. Learn how in `lessons/07-giving-good-feedback.md`, and use the template in `feedback-getadvice/feedback-template.md`.
 
 ### Your milestones for this stage
 
@@ -64,13 +66,13 @@ When git feels like a habit and you have sent real feedback that helped a real a
 
 ## Stage 3: Later, scaling up 🌟
 
-**Where this can go.** Claude Code now feels like a daily copilot. A copilot is the person who sits next to the pilot and helps fly the plane. That is Claude for you now: a partner you reach for without thinking. This stage is about doing more, and doing it on real things.
+**Where this can go.** MILO now feels like a daily copilot. A copilot is the person who sits next to the pilot and helps fly the plane. That is MILO for you now: a partner you reach for without thinking, right there in Claude Code. This stage is about doing more, and doing it on real things.
 
 ### What later looks like
 
 - **Scale up your usage.** When you are building most days and your current plan feels tight, that is a signal, not a problem. You can move to a higher Claude plan or simply run more sessions. You grow the tool when your work grows into it.
 - **Take on a small real improvement.** Instead of only practice projects, you pick one small polish item on a real app like GetAdvice and improve it, with guidance. A cleaner button. A clearer message. A small fix. Real work, small and safe.
-- **Start reading other people's code.** Until now you wrote your own code. Reading code someone else wrote is a new superpower. It is like learning to read books in a language you were only speaking before. Claude Code can walk you through any file you do not understand.
+- **Start reading other people's code.** Until now you wrote your own code. Reading code someone else wrote is a new superpower. It is like learning to read books in a language you were only speaking before. MILO can walk you through any file you do not understand.
 
 ### Your milestones for this stage
 
@@ -78,7 +80,7 @@ When git feels like a habit and you have sent real feedback that helped a real a
 |---|---|
 | Copilot habit | You open Claude Code by reflex when you sit down to build. |
 | A real, shipped polish | One small improvement you made lands in a real app, with guidance. |
-| You can read strangers' code | You open a file you did not write and, with Claude's help, explain what it does. |
+| You can read strangers' code | You open a file you did not write and, with MILO's help, explain what it does. |
 | You scaled on purpose | You grew your plan or your sessions because your building outgrew the old setup. |
 
 There is no finish line here. This is the stage where you keep going, keep growing, and start helping others the way this repo helped you.

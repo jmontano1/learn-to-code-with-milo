@@ -2,7 +2,7 @@
 
 This is a big one. Up to now you followed the lessons step by step. Now **you're the boss.**
 
-You're going to build a small project that is *yours* — your idea, your choices, your name on it. Claude Code is your helper, but the project belongs to you.
+You're going to build a small project that is *yours* — your idea, your choices, your name on it. MILO — the brain — is your tutor, and GetAdvice is MILO's friendly face out in the world, but this project belongs to you.
 
 Think of it like a **kitchen**. The last lessons taught you how to use the stove, the knife, and the oven. Today you cook your own dish. It doesn't have to be fancy. It just has to be yours.
 
@@ -27,7 +27,7 @@ There's no wrong pick. Choose the one that makes *you* curious.
 
 Everything you build lives in the **`my-projects/`** folder. That keeps your work tidy and separate from the lessons.
 
-Paste this to Claude Code (swap in your own project name):
+Paste this to MILO (swap in your own project name):
 
 ```text
 I'm a beginner. Please make a new folder inside my-projects/ called
@@ -40,11 +40,11 @@ See the new folder inside `my-projects/`? That's your project's home. There's a 
 
 ---
 
-## Step 3 — Describe your idea to Claude in plain words
+## Step 3 — Describe your idea to MILO in plain words
 
 Here's the most important skill in this whole repo: **you don't need to know how to build it. You just need to describe it.**
 
-Tell Claude what you want in plain words, like you'd tell a friend. For example:
+Tell MILO what you want in plain words, like you'd tell a friend. For example:
 
 ```text
 I'm a beginner building a dice roller in my-projects/dice-roller/. I
@@ -62,10 +62,10 @@ Notice the magic words: **"one small piece at a time."** That's the secret. Don'
 
 Here's your loop. You'll do it over and over, and it never really changes — not even for professional programmers:
 
-1. Ask Claude for **one small piece**.
+1. Ask MILO for **one small piece**.
 2. **Type** the code into your file yourself.
 3. Open `index.html` in your browser and **see if it works**.
-4. If it breaks, paste your file to Claude and ask what's wrong.
+4. If it breaks, paste your file to MILO and ask what's wrong.
 5. If it works, ask for the **next small piece**.
 
 When you get stuck (everyone does), this prompt always helps:
@@ -80,7 +80,7 @@ how do I fix it? Keep it simple.
 
 ## Step 5 — Make it look and feel like *yours*
 
-Once it works, spend a little time making it *you*. Change the colors. Change the words. Add your name. Ask Claude:
+Once it works, spend a little time making it *you*. Change the colors. Change the words. Add your name. Ask MILO:
 
 ```text
 My project works! Now help me make it look nicer and more personal.
@@ -94,13 +94,13 @@ This is *your* project. There's no rule for how it should look. If you like it, 
 
 ## A note for you
 
-This lesson is different from the earlier ones on purpose. **Nobody handed you the answer.** You picked an idea, described it, and built it piece by piece. That is exactly what real software work feels like — including the work behind the real app you'll help polish, **GetAdvice**. Every button and screen in it started as someone describing an idea and building it one small piece at a time, just like you did here. When you get to [feedback-getadvice/README.md](../feedback-getadvice/README.md), you'll bring that same eye to a real app.
+This lesson is different from the earlier ones on purpose. **Nobody handed you the answer.** You picked an idea, described it, and built it piece by piece. That is exactly what real software work feels like — including the work behind the real app you'll help polish, **GetAdvice** (MILO's friendly face, the app real people use to talk to MILO). Every button and screen in it started as someone describing an idea and building it one small piece at a time, just like you did here. When you get to [feedback-getadvice/README.md](../feedback-getadvice/README.md), you'll bring that same eye to a real app.
 
 You own this project. Be proud of it. 🎉
 
 ---
 
-## You did it! 🎉
+## 🎉 Milestone: your first project is yours
 
 **Your milestone:** you built a real, working thing from your own idea, using HTML, CSS, and JavaScript together. That's a genuine first project. Not a copy — yours.
 

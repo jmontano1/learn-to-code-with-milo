@@ -47,9 +47,9 @@ Here are five properties you'll play with today. You don't need to memorize them
 
 Okay, enough menu-reading. Let's cook.
 
-## Step 1: Ask Claude to coach you, while you type
+## Step 1: Ask MILO to coach you, while you type
 
-Same rule as last time: **you type it.** Claude coaches, your hands do the work. That's how it sticks.
+Same rule as last time: **you type it.** MILO coaches, your hands do the work. That's how it sticks.
 
 Make sure Claude Code is working inside your `my-projects/` folder, next to the `index.html` you made in Lesson 02.
 
@@ -63,7 +63,7 @@ Please coach me line by line to style my page so that: the page background is a 
 For each line: tell me exactly what to type, then explain in one plain sentence what the property and value do. Wait for me after each part. Do NOT paste the whole finished style for me to copy blindly. Keep it warm and simple, like teaching a 13-year-old. Use the words property and value when they come up.
 ```
 
-Follow along and type each piece. When Claude asks what colors you want, **pick your own.** This is your page. Make it yours.
+Follow along and type each piece. When MILO asks what colors you want, **pick your own.** This is your page. Make it yours.
 
 If a line confuses you, always okay to say:
 
@@ -106,7 +106,7 @@ What are some background-color values I can try? Give me a few friendly ones wit
 How do I change the font-family to something rounder and more fun? Show me a couple of options.
 ```
 
-Asking follow-up questions like this isn't cheating. It's exactly how working coders use Claude every day.
+Asking follow-up questions like this isn't cheating. It's exactly how working coders use MILO every day.
 
 ## Step 4: Break it, fix it (you know this one now)
 
@@ -118,13 +118,13 @@ Now fix it, change `colr` back to `color`, save, refresh. Back to beautiful.
 
 Want to see it again? Try a different break: **delete one whole line** of your CSS (the entire line, top to bottom). Save, refresh. That one style disappears. Put the line back, and it returns. Each line is doing one job, and now you've watched it happen.
 
-Stuck? Hand it to Claude:
+Stuck? Hand it to MILO:
 
 ```
 I changed my CSS and now a style isn't working. Here's my file: [paste it]. What did I break, and how do I fix it?
 ```
 
-## 🏆 Milestone: your page has a look
+## 🎉 Milestone: your page has a look
 
 If your page now has a background color you chose, a headline color you chose, and centered text, **you just styled your first web page.** 🎉
 

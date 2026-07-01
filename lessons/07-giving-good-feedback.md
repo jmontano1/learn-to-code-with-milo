@@ -4,7 +4,7 @@ You made it to the last lesson of the core path. That is a real achievement.
 
 Here is something that might surprise you: **you can help make a real app better right now**, before you even know how to build big features. You do it by **testing** the app and telling the team what you find.
 
-The app you will help polish is called **GetAdvice**. Real people use it. Your notes can actually change it.
+The app you will help polish is called **GetAdvice** — MILO's friendly face, the app real people use to talk to MILO. Your notes can actually change it.
 
 ---
 
@@ -60,9 +60,9 @@ Open the README first, then use the template as your worksheet. The template exi
 
 ---
 
-## Let Claude help you write it up
+## Let MILO help you write it up
 
-Once you have tried GetAdvice and noticed something, you can ask Claude to help you turn your rough notes into clean, clear feedback. Paste something like this into Claude Code:
+Once you have tried GetAdvice and noticed something, you can ask MILO to help you turn your rough notes into clean, clear feedback. Paste something like this to MILO in Claude Code:
 
 ```
 I tested the GetAdvice app and I want to write clear feedback.
@@ -75,7 +75,7 @@ feedback-getadvice/feedback-template.md. Ask me a question if
 anything is missing.
 ```
 
-Claude will help you shape it, and it will ask you for anything you left out, like which screen you were on. That back-and-forth is normal and good.
+MILO will help you shape it, and it will ask you for anything you left out, like which screen you were on. That back-and-forth is normal and good.
 
 ---
 
@@ -87,7 +87,7 @@ Let's ship your first real piece of feedback.
 2. Open the GetAdvice app and use it like a curious first-time visitor. Poke around. Try to break things gently.
 3. When something is confusing or broken, jot down your four answers: what you did, what you expected, what happened, and why it matters.
 4. Take a screenshot if it helps.
-5. Copy **feedback-getadvice/feedback-template.md**, fill it in (Claude can help), and submit it the way the README describes.
+5. Copy **feedback-getadvice/feedback-template.md**, fill it in (MILO can help), and submit it the way the README describes.
 
 One clear piece of feedback is plenty. Quality beats quantity.
 

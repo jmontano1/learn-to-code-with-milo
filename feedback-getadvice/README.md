@@ -1,7 +1,8 @@
 # Helping Polish GetAdvice 🔎
 
-**GetAdvice is a friendly advice app the family is polishing. Your job is
-simple: USE it, then tell us what you find.**
+**GetAdvice is MILO's friendly face — the app real people use to talk to MILO —
+and the family is polishing it. Your job is simple: USE it, then tell
+us what you find.**
 
 You get to be a tester. A tester is a person who tries out an app before
 the whole world uses it, then tells the team what worked and what felt
@@ -28,6 +29,9 @@ your quick guide for when you are ready to go.
    thing and see the very same result.
 5. Add a **screenshot** whenever you can. A screenshot is a picture of your
    screen. It shows the team exactly what you saw, which helps a lot.
+
+If you ever get stuck on a note, you can always ask MILO to help you say it
+clearly.
 
 ## Small ideas are very welcome
 
