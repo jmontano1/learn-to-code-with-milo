@@ -136,7 +136,7 @@ You now know both halves of how every website on Earth is built:
 Lock in the win:
 
 - **Take a screenshot** of your restyled page.
-- **Show your uncle** the before and after. The plain version next to the styled version tells the whole story of what you learned today.
+- **Compare them side by side** — the plain version next to the styled version tells the whole story of what you learned today.
 
 > This "change → see → adjust" instinct you just practiced is the *exact* skill you'll lean on when you help polish the real GetAdvice app, spotting when something looks a little off and describing how to make it better. You're building that eye right now.
 

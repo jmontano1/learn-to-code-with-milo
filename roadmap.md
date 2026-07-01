@@ -6,7 +6,7 @@ A map does not tell you when you will arrive. It just shows the road, the big st
 
 You do not have to rush. There is no deadline here. You move to the next stage when the one you are on feels comfortable, not when a calendar tells you to.
 
-Along the whole road, **MILO teaches you** — MILO is the brain, your friendly AI tutor, and **GetAdvice** is MILO's friendly face, the app the family built so MILO can help people. You meet MILO here inside Claude Code; later you'll help make GetAdvice better.
+Along the whole road, **MILO teaches you** — MILO is the brain, your AI tutor, and **GetAdvice** is MILO's friendly face, the app people use to talk to MILO. You meet MILO here inside Claude Code; later you'll help make GetAdvice better.
 
 There are three stages: **Now**, **Next**, and **Later**. Read them like a short story about you.
 

@@ -1,7 +1,7 @@
 # Helping Polish GetAdvice 🔎
 
 **GetAdvice is MILO's friendly face — the app real people use to talk to MILO —
-and the family is polishing it. Your job is simple: USE it, then tell
+and we're always making it better. Your job is simple: USE it, then tell
 us what you find.**
 
 You get to be a tester. A tester is a person who tries out an app before

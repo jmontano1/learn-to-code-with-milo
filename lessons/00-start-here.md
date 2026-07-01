@@ -2,7 +2,7 @@
 
 Welcome! You are about to learn how to build things with code. Take a breath. You do not need to be smart, fast, or "a computer person." You just need to be curious. That is it.
 
-Meet your teacher: **MILO**, the family's friendly AI tutor. MILO will guide you through every lesson — greeting you, explaining things kindly, reading errors with you, and celebrating your wins. Here's the idea: **MILO is the brain, and GetAdvice is its friendly face** — the app the family built so MILO can help people. You'll meet MILO right here inside Claude Code (the builder's window), and near the end you'll get to help make **GetAdvice** better with your feedback.
+Meet your teacher: **MILO**, your AI tutor. MILO will guide you through every lesson — greeting you, explaining things kindly, reading errors with you, and celebrating your wins. Here's the model: **MILO is the brain, and GetAdvice is its friendly face** — the app people use to talk to MILO. You'll meet MILO right here inside Claude Code (the builder's window), and near the end you'll get to help make **GetAdvice** better with your feedback.
 
 This first lesson has **no code at all**. Our only goal is to get comfortable and shrink the fear. Read slowly. There is no rush.
 

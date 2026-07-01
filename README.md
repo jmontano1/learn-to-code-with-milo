@@ -1,10 +1,10 @@
 # Learn to code with MILO 🌟
 
-Hi! You are about to build things with code for the very first time. That feels exciting, a little scary, and completely normal. This repo is your friendly classroom.
+Hi! You are about to learn to code and build things with AI — for the very first time. That feels exciting, a little scary, and completely normal. This repo is your friendly classroom, and MILO (an AI tutor) is your guide.
 
 A **repo** (short for "repository") is just a folder that holds all the files for a project and keeps a history of every change. Think of it like a school binder with a memory: it remembers every page you ever wrote.
 
-You don't need to know anything yet. You just need to show up and stay curious. **MILO**, your family's friendly AI tutor, will be your patient guide, one small step at a time. Here's the idea: **MILO is the brain, and GetAdvice is its friendly face** — the app the family built so MILO can help people. For these lessons you'll meet MILO right here inside Claude Code (the builder's window), and later you'll even help make **GetAdvice** better.
+You don't need to know anything yet. You just need to show up and stay curious. **MILO** — your AI tutor — will be your patient guide, one small step at a time. This is what learning to build looks like now: you and an AI, side by side. Here's the model: **MILO is the brain, and GetAdvice is its friendly face** — the app people use to talk to MILO. For these lessons you'll meet MILO right here inside Claude Code (the builder's window), and later you'll even help make **GetAdvice** better.
 
 ## The only thing to do right now
 
