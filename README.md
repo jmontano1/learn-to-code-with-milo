@@ -32,6 +32,19 @@ Here is everything in this repo and what each part is for. You don't need to ope
 | `my-projects/` | The place where you build your own creations. See `my-projects/README.md`. |
 | `feedback-getadvice/` | Where you help polish a real app called GetAdvice by testing it. See `feedback-getadvice/README.md`. |
 
+## Level 2 — The Builder's Track 🔨
+
+The lessons above (00–07) are Level 1: the ladder. When you finish it — pages built, styles added, buttons wired, work saved with git, real feedback sent — you are ready for the next deal. Level 2 stops handing you recipes and starts handing you **goals**. MILO switches from chef to coach: it asks you questions until *you* can write the code, then reviews what you wrote. You grow one real app across four lessons, learn to hunt bugs and read strangers' code, and finish by improving a real product.
+
+- [lessons/08-level-2-the-builders-track.md](lessons/08-level-2-the-builders-track.md) — The new rules: goals instead of recipes, and how to ask MILO to coach, not solve.
+- [lessons/09-a-site-with-rooms.md](lessons/09-a-site-with-rooms.md) — Start **Study Buddy**, your quiz app: build its shell as pages that work together.
+- [lessons/10-logic-that-thinks.md](lessons/10-logic-that-thinks.md) — Wire the quiz brain: right, wrong, and keeping score.
+- [lessons/11-memory-for-your-app.md](lessons/11-memory-for-your-app.md) — Make Study Buddy remember you between visits.
+- [lessons/12-talking-to-the-internet.md](lessons/12-talking-to-the-internet.md) — Teach it to fetch fresh questions from the web.
+- [lessons/13-the-detective-lessons.md](lessons/13-the-detective-lessons.md) — Switch hats: hunt bugs on purpose instead of stumbling into them.
+- [lessons/14-reading-strangers-code.md](lessons/14-reading-strangers-code.md) — Open code you did not write and figure out what it does.
+- [lessons/15-capstone-fix-something-real.md](lessons/15-capstone-fix-something-real.md) — The capstone: turn your own GetAdvice feedback into a real fix proposal.
+
 ## Three golden rules of learning
 
 1. **Mistakes are part of the game.** Every coder, even the best ones, breaks things all day long. A mistake is not failure. It is just the next clue.
