@@ -4,17 +4,17 @@ You made a real web page in `lessons/02-your-first-web-page.md`. Nice work. Righ
 
 Time to dress it up. 🎨
 
-## Bones and clothes
+## Structure and style
 
 Here's the idea that makes this whole lesson click.
 
-The HTML you wrote last time is the **bones**, the skeleton, the structure. It decides *what's there*: a headline, a paragraph.
+The HTML you wrote last time is the **structure** — the walls and rooms. It decides *what's there*: a headline, a paragraph.
 
-**CSS** is the **clothes**. It doesn't change what's there, it changes how it *looks*: the colors, the sizes, the fonts, where things sit on the page.
+**CSS** is the **paint and furniture**. It doesn't change what's there, it changes how it *looks*: the colors, the sizes, the fonts, where things sit on the page.
 
-> **CSS** stands for a fancy phrase you can happily ignore for now. Just remember: HTML is bones, CSS is the outfit you put on them.
+> **CSS** stands for a fancy phrase you can happily ignore for now. Just remember: HTML is the house, CSS is the paint and decor you put on it.
 
-Same skeleton, endless outfits. That's the power you're about to get.
+Same house, endless looks. That's the power you're about to get.
 
 ## Two new words: property and value
 
@@ -130,8 +130,8 @@ If your page now has a background color you chose, a headline color you chose, a
 
 You now know both halves of how every website on Earth is built:
 
-- **HTML** = the bones (Lesson 02)
-- **CSS** = the clothes (this lesson)
+- **HTML** = the structure (Lesson 02)
+- **CSS** = the style (this lesson)
 
 Lock in the win:
 

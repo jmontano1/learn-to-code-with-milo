@@ -1,14 +1,14 @@
 # Lesson 04 — Make It Do Something (JavaScript)
 
-Welcome back! So far your page can hold words (HTML) and look nice (CSS). Now we give it **muscles**.
+Welcome back! So far your page can hold words (HTML) and look nice (CSS). Now we give it **wiring** — the electricity that makes things happen.
 
-Think of it like a body:
+Think of it like a house:
 
 | Part | What it is | What it does |
 | --- | --- | --- |
-| HTML | The bones | Holds everything up |
-| CSS | The clothes | Makes it look good |
-| JavaScript | The muscles | Makes it move and react |
+| HTML | The structure | Holds everything up |
+| CSS | The paint & furniture | Makes it look good |
+| JavaScript | The electricity | Makes things happen when you interact |
 
 In this lesson you will add a **button** that actually does something when you click it. That is your page coming alive.
 
@@ -93,7 +93,7 @@ Change one thing. See what happens. Break it, fix it, repeat. That is exactly ho
 
 You built something that **reacts to you**. That is the heart of every app, game, and website you've ever used — including the real app you'll help test soon, **GetAdvice**. GetAdvice is MILO's friendly face, and it's a real app you'll get to polish with your feedback. When you tap a button in GetAdvice and something happens, that's this same idea, just bigger. Now you know the trick behind it.
 
-**Your milestone:** your page now has bones, clothes, and muscles. It's alive.
+**Your milestone:** your page now has structure, style, and wiring. It's alive.
 
 ---
 

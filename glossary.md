@@ -34,13 +34,13 @@ Sending your saved commits from your computer up to the internet, usually to Git
 ## The three languages of a web page
 
 **HTML**
-The language that holds the *content* of a web page: the words, the headings, the buttons. Think of it like the skeleton of a body. It gives the page its shape and its parts, but not its looks yet.
+The language that holds the *content* of a web page: the words, the headings, the buttons. Think of it like the frame of a house. It gives the page its shape and its parts, but not its looks yet.
 
 **CSS**
-The language that makes a page look nice: colors, sizes, spacing, fonts. Think of it like the clothes and the style on top of the skeleton. Same body, but now it has a look.
+The language that makes a page look nice: colors, sizes, spacing, fonts. Think of it like the paint and furniture inside the house. Same house, but now it has a look.
 
 **JavaScript**
-The language that makes a page *do* things: react to clicks, change text, respond to you. Think of it like the muscles that let the body move. This is what makes a page feel alive.
+The language that makes a page *do* things: react to clicks, change text, respond to you. Think of it like the electricity and wiring that make things work when you flip a switch. This is what makes a page feel alive.
 
 **Tag**
 A small labeled piece of HTML that marks one part of your page, like a heading or a button. Think of it like a sticky note that says "this bit is a title" or "this bit is a paragraph."

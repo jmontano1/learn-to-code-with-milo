@@ -125,7 +125,7 @@ Two things to lock in the win:
 
 ## What's next
 
-You've got structure now: the bones of your page. Next, we make it *look* good, with colors, sizes, and fonts.
+You've got structure now: the frame of your page. Next, we make it *look* good, with colors, sizes, and fonts.
 
 Go to `lessons/03-add-style-css.md` when you're ready.
 

@@ -10,7 +10,7 @@ Think of it like a **kitchen**. The last lessons taught you how to use the stove
 
 ## Step 1 — Pick one idea
 
-Here are four beginner-friendly projects. Each one uses the three things you already know: HTML (the bones), CSS (the looks), and JavaScript (the muscles). Pick the **one** that sounds most fun.
+Here are four beginner-friendly projects. Each one uses the three things you already know: HTML (the structure), CSS (the style), and JavaScript (the wiring). Pick the **one** that sounds most fun.
 
 | Idea | What it does | Why it's great to start with |
 | --- | --- | --- |
