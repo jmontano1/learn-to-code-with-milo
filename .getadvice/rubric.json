@@ -1,39 +1,35 @@
 {
-  "rubric_version": "1.0.0",
-  "$comment": "GetAdvice student-mode rubric. Progress is computed ONLY from evidence in the student's own repo (and feedback notes), attributed by immutable GitHub numeric user id — never author name. Milestones derive from roadmap.md's stage tables. evidence.type vocabulary: file_glob (a file matching any glob exists, committed by the student), content_regex (a file matching paths_glob contains the regex), min_commits (N commits by the student), distinct_days (commits on N distinct UTC days), feedback_notes (N files under the curriculum repo's feedback-notes path authored by the student), manual (mentor verifies by hand; the API reports it as pending_mentor until flipped in the roster DB).",
-  "curriculum_repo": "jmontano1/learn-to-code-with-milo",
-  "feedback_notes_path": "feedback-getadvice/notes/",
-  "attribution": "github_numeric_user_id",
+  "version": "1.0.1",
+  "$comment": "GetAdvice student-mode rubric, consumed by the getadvice-cloudflare Worker's compute pipeline. Progress is computed ONLY from evidence in the student's own repo (plus feedback notes in this repo), attributed by immutable GitHub numeric user id — never author name. Milestones derive from roadmap.md's stage tables. Evidence vocabulary (worker-defined): file_glob{glob,min_matches} — files matching glob exist in the student repo tree; content_regex{glob,pattern,flags,min_matches} — a matching file's content tests true (first 5 matching files fetched); min_commits{min_commits,distinct_days} — commits authored by the student's numeric id, optionally across N distinct UTC days; feedback_notes{path,min_matches} — files under this repo's feedback-getadvice/notes/; manual — mentor flips it in the roster (reported as pending_mentor until then). Evidence may be an array (all must pass).",
   "stages": [
     {
       "id": "stage-1",
       "name": "Now — first pages",
       "emoji": "🌱",
-      "lessons": ["00", "01", "02", "03", "04", "05"],
       "milestones": [
         {
           "id": "first-page",
           "title": "First page on screen",
           "lesson": "lessons/02-your-first-web-page.md",
-          "evidence": { "type": "file_glob", "repo": "student_repo", "globs": ["**/*.html"] }
+          "evidence": { "type": "file_glob", "glob": "**/*.html", "min_matches": 1 }
         },
         {
           "id": "styled",
           "title": "It looks good",
           "lesson": "lessons/03-add-style-css.md",
-          "evidence": { "type": "content_regex", "repo": "student_repo", "paths_glob": ["**/*.html", "**/*.css"], "regex": "(<style|\\brel=\\\"stylesheet\\\"|\\.css)" }
+          "evidence": { "type": "content_regex", "glob": "**/*.html", "pattern": "(<style|rel=\"stylesheet\"|\\.css)", "flags": "m" }
         },
         {
           "id": "interactive",
           "title": "It does something",
           "lesson": "lessons/04-make-it-interactive-js.md",
-          "evidence": { "type": "content_regex", "repo": "student_repo", "paths_glob": ["**/*.html", "**/*.js"], "regex": "(<script|addEventListener|onclick)" }
+          "evidence": { "type": "content_regex", "glob": "**/*.html", "pattern": "(<script|addEventListener|onclick)", "flags": "m" }
         },
         {
           "id": "own-idea",
           "title": "Your own idea",
           "lesson": "lessons/05-your-own-project.md",
-          "evidence": { "type": "file_glob", "repo": "student_repo", "globs": ["*/index.html"], "min_matches": 2, "$comment": "two or more distinct project folders each with an entry page" }
+          "evidence": { "type": "file_glob", "glob": "*/index.html", "min_matches": 2 }
         }
       ]
     },
@@ -41,31 +37,30 @@
       "id": "stage-2",
       "name": "Next — building bigger, saving like a developer",
       "emoji": "🚀",
-      "lessons": ["06", "07", "08", "09", "10", "11", "12"],
       "milestones": [
         {
           "id": "real-save-point",
           "title": "A real save point",
           "lesson": "lessons/06-saving-work-with-git.md",
-          "evidence": { "type": "min_commits", "repo": "student_repo", "count": 5 }
+          "evidence": { "type": "min_commits", "min_commits": 5 }
         },
         {
           "id": "bigger-build",
           "title": "A bigger build",
           "lesson": "lessons/09-a-site-with-rooms.md",
-          "evidence": { "type": "file_glob", "repo": "student_repo", "globs": ["*/*.html"], "min_matches": 3, "$comment": "a project with multiple pages/rooms — Study Buddy counts" }
+          "evidence": { "type": "file_glob", "glob": "*/*.html", "min_matches": 3 }
         },
         {
           "id": "first-feedback",
           "title": "Your first real feedback",
           "lesson": "lessons/07-giving-good-feedback.md",
-          "evidence": { "type": "feedback_notes", "count": 1 }
+          "evidence": { "type": "feedback_notes", "min_matches": 1 }
         },
         {
           "id": "git-habit",
           "title": "The save flow feels normal",
           "lesson": "lessons/06-saving-work-with-git.md",
-          "evidence": { "type": "distinct_days", "repo": "student_repo", "count": 5 }
+          "evidence": { "type": "min_commits", "min_commits": 5, "distinct_days": 5 }
         }
       ]
     },
@@ -73,19 +68,18 @@
       "id": "stage-3",
       "name": "Later — real work, read strangers' code",
       "emoji": "🌟",
-      "lessons": ["13", "14", "15"],
       "milestones": [
         {
           "id": "detective",
           "title": "Bug hunter",
           "lesson": "lessons/13-the-detective-lessons.md",
-          "evidence": { "type": "content_regex", "repo": "student_repo", "paths_glob": ["**/*.md", "**/*.js", "**/*.html"], "regex": "(?i)(bug|fix|debug)" }
+          "evidence": { "type": "content_regex", "glob": "**/*.md", "pattern": "(bug|fix|debug)", "flags": "im" }
         },
         {
           "id": "capstone",
           "title": "Fix something real",
           "lesson": "lessons/15-capstone-fix-something-real.md",
-          "evidence": { "type": "manual", "$comment": "a real improvement proposal to a real app (GetAdvice) — the mentor flips this in the roster after review" }
+          "evidence": { "type": "manual" }
         }
       ]
     }
