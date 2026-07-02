@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "$comment": "GetAdvice student-mode rubric, consumed by the getadvice-cloudflare Worker's compute pipeline. Progress is computed ONLY from evidence in the student's own repo (plus feedback notes in this repo), attributed by immutable GitHub numeric user id — never author name. Milestones derive from roadmap.md's stage tables. Evidence vocabulary (worker-defined): file_glob{glob,min_matches} — files matching glob exist in the student repo tree; content_regex{glob,pattern,flags,min_matches} — a matching file's content tests true (first 5 matching files fetched); min_commits{min_commits,distinct_days} — commits authored by the student's numeric id, optionally across N distinct UTC days; feedback_notes{path,min_matches} — files under this repo's feedback-getadvice/notes/; manual — mentor flips it in the roster (reported as pending_mentor until then). Evidence may be an array (all must pass).",
   "stages": [
     {
@@ -11,25 +11,43 @@
           "id": "first-page",
           "title": "First page on screen",
           "lesson": "lessons/02-your-first-web-page.md",
-          "evidence": { "type": "file_glob", "glob": "**/*.html", "min_matches": 1 }
+          "evidence": {
+            "type": "file_glob",
+            "glob": "**/*.html",
+            "min_matches": 1
+          }
         },
         {
           "id": "styled",
           "title": "It looks good",
           "lesson": "lessons/03-add-style-css.md",
-          "evidence": { "type": "content_regex", "glob": "**/*.html", "pattern": "(<style|rel=\"stylesheet\"|\\.css)", "flags": "m" }
+          "evidence": {
+            "type": "content_regex",
+            "glob": "**/*.html",
+            "pattern": "(<style|rel=\"stylesheet\"|\\.css)",
+            "flags": "m"
+          }
         },
         {
           "id": "interactive",
           "title": "It does something",
           "lesson": "lessons/04-make-it-interactive-js.md",
-          "evidence": { "type": "content_regex", "glob": "**/*.html", "pattern": "(<script|addEventListener|onclick)", "flags": "m" }
+          "evidence": {
+            "type": "content_regex",
+            "glob": "**/*.html",
+            "pattern": "(<script|addEventListener|onclick)",
+            "flags": "m"
+          }
         },
         {
           "id": "own-idea",
           "title": "Your own idea",
           "lesson": "lessons/05-your-own-project.md",
-          "evidence": { "type": "file_glob", "glob": "*/index.html", "min_matches": 2 }
+          "evidence": {
+            "type": "file_glob",
+            "glob": "*/index.html",
+            "min_matches": 2
+          }
         }
       ]
     },
@@ -42,25 +60,39 @@
           "id": "real-save-point",
           "title": "A real save point",
           "lesson": "lessons/06-saving-work-with-git.md",
-          "evidence": { "type": "min_commits", "min_commits": 5 }
+          "evidence": {
+            "type": "min_commits",
+            "min_commits": 5
+          }
         },
         {
           "id": "bigger-build",
           "title": "A bigger build",
           "lesson": "lessons/09-a-site-with-rooms.md",
-          "evidence": { "type": "file_glob", "glob": "*/*.html", "min_matches": 3 }
+          "evidence": {
+            "type": "file_glob",
+            "glob": "*/*.html",
+            "min_matches": 3
+          }
         },
         {
           "id": "first-feedback",
           "title": "Your first real feedback",
           "lesson": "lessons/07-giving-good-feedback.md",
-          "evidence": { "type": "feedback_notes", "min_matches": 1 }
+          "evidence": {
+            "type": "feedback_notes",
+            "min_matches": 1
+          }
         },
         {
           "id": "git-habit",
           "title": "The save flow feels normal",
           "lesson": "lessons/06-saving-work-with-git.md",
-          "evidence": { "type": "min_commits", "min_commits": 5, "distinct_days": 5 }
+          "evidence": {
+            "type": "min_commits",
+            "min_commits": 5,
+            "distinct_days": 5
+          }
         }
       ]
     },
@@ -73,13 +105,126 @@
           "id": "detective",
           "title": "Bug hunter",
           "lesson": "lessons/13-the-detective-lessons.md",
-          "evidence": { "type": "content_regex", "glob": "**/*.md", "pattern": "(bug|fix|debug)", "flags": "im" }
+          "evidence": {
+            "type": "content_regex",
+            "glob": "**/*.md",
+            "pattern": "(bug|fix|debug)",
+            "flags": "im"
+          }
         },
         {
           "id": "capstone",
           "title": "Fix something real",
           "lesson": "lessons/15-capstone-fix-something-real.md",
-          "evidence": { "type": "manual" }
+          "evidence": {
+            "type": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-4",
+      "name": "The Launch Track — marketing with AI",
+      "emoji": "📣",
+      "milestones": [
+        {
+          "id": "on-the-launch-team",
+          "title": "On the launch team",
+          "lesson": "lessons/16-level-3-the-launch-track.md",
+          "evidence": {
+            "type": "file_glob",
+            "glob": "marketing/journal/week-*.md",
+            "min_matches": 1
+          }
+        },
+        {
+          "id": "know-the-customer-l3",
+          "title": "You know the customer",
+          "lesson": "lessons/17-know-the-customer-ai-research.md",
+          "evidence": {
+            "type": "file_glob",
+            "glob": "marketing/research/*.md",
+            "min_matches": 2
+          }
+        },
+        {
+          "id": "voice-and-message",
+          "title": "The launch has a voice",
+          "lesson": "lessons/18-voice-and-message.md",
+          "evidence": {
+            "type": "file_glob",
+            "glob": "marketing/voice/*.md",
+            "min_matches": 2
+          }
+        },
+        {
+          "id": "landing-page",
+          "title": "A real front door",
+          "lesson": "lessons/19-build-the-landing-page.md",
+          "evidence": {
+            "type": "file_glob",
+            "glob": "marketing/landing/index.html",
+            "min_matches": 1
+          }
+        },
+        {
+          "id": "content-engine",
+          "title": "The engine runs",
+          "lesson": "lessons/20-content-engine.md",
+          "evidence": [
+            {
+              "type": "file_glob",
+              "glob": "marketing/content/calendar.md",
+              "min_matches": 1
+            },
+            {
+              "type": "file_glob",
+              "glob": "marketing/content/posts/*.md",
+              "min_matches": 4
+            }
+          ]
+        },
+        {
+          "id": "get-found",
+          "title": "Get found",
+          "lesson": "lessons/21-aso-get-found.md",
+          "evidence": {
+            "type": "file_glob",
+            "glob": "marketing/aso/keywords.md",
+            "min_matches": 1
+          }
+        },
+        {
+          "id": "evidence-not-vibes",
+          "title": "Evidence, not vibes",
+          "lesson": "lessons/22-measure-what-matters.md",
+          "evidence": {
+            "type": "file_glob",
+            "glob": "marketing/measure/experiment-log.md",
+            "min_matches": 1
+          }
+        },
+        {
+          "id": "launch-shipped",
+          "title": "A launch, shipped",
+          "lesson": "lessons/23-capstone-launch-getadvice.md",
+          "evidence": [
+            {
+              "type": "file_glob",
+              "glob": "marketing/launch/launch-plan.md",
+              "min_matches": 1
+            },
+            {
+              "type": "file_glob",
+              "glob": "marketing/launch/retro.md",
+              "min_matches": 1
+            },
+            {
+              "type": "file_glob",
+              "glob": "marketing/journal/week-*.md",
+              "min_matches": 2
+            }
+          ]
         }
       ]
     }

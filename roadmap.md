@@ -8,7 +8,7 @@ You do not have to rush. There is no deadline here. You move to the next stage w
 
 Along the whole road, **MILO teaches you** — MILO is the brain, your AI tutor, and **GetAdvice** is MILO's friendly face, the app people use to talk to MILO. You meet MILO here inside Claude Code; later you'll help make GetAdvice better.
 
-There are three stages: **Now**, **Next**, and **Later**. Read them like a short story about you.
+There are four stages: **Now**, **Next**, **Later** — and, once Level 2 is behind you, **The Launch Track**. Read them like a short story about you.
 
 ---
 
@@ -92,3 +92,31 @@ There is no finish line here. This is the stage where you keep going, keep growi
 Stages are not a race. Some days you fly. Some days one small thing takes the whole session. Both are normal. Both are progress.
 
 Ready? Your very first step is `lessons/00-start-here.md`. Go say hello. 👋
+
+---
+
+## Stage 4: The Launch Track 📣
+
+**Where your work meets the world.** This stage unlocks after Level 2 — when the Builder's Track capstone, `lessons/15-capstone-fix-something-real.md`, is behind you. By then you are not practicing anymore; you are contributing. Stage 4 turns that up: **GetAdvice is launching**, and you join the launch as a junior growth teammate. Real research, real words, a real page, a real launch week.
+
+Marketing here is not the loud, pushy thing you might be picturing. Think of it like being a bridge: on one side, an app that can genuinely help; on the other, a person who feels intimidated by AI and does not know it exists. Your job is finding those people and telling them the truth well.
+
+### What you do
+
+- Work through `lessons/16-level-3-the-launch-track.md` to `lessons/23-capstone-launch-getadvice.md`, in order. Everything you make lives in the `marketing/` folder of your repo.
+- Ship real deliverables: audience research, a voice guide, App Store copy, a landing page you design AND build yourself, a content calendar with posts, keyword research, and an experiment log.
+- Keep a weekly journal in `marketing/journal/`. Its front-matter is your standup — MILO reads your committed files automatically, so nobody will ever chase you for status. The commit is the handoff.
+
+### Your milestones for this stage
+
+| Milestone | You reach it when... |
+|---|---|
+| On the launch team | Your first journal entry, `marketing/journal/week-01.md`, is committed and pushed in `lessons/16-level-3-the-launch-track.md`. |
+| You know the customer | `marketing/research/audience.md` and `marketing/research/competitors.md` hold personas from real interviews and an honest competitor scan. |
+| The launch has a voice | `marketing/voice/voice-guide.md` and `marketing/voice/app-store-copy.md` are shipped, every line picked and edited by your own hand. |
+| A real front door | Your landing page at `marketing/landing/index.html` passes the 5-second stranger test in `lessons/19-build-the-landing-page.md`. |
+| The engine runs | `marketing/content/calendar.md` plus your first four posts in `marketing/content/posts/` are committed, and `marketing/aso/keywords.md` maps how people find us. |
+| Evidence, not vibes | `marketing/measure/experiment-log.md` holds a real experiment with a falsifiable hypothesis and an honest result. |
+| A launch, shipped | `marketing/launch/launch-plan.md` and `marketing/launch/retro.md` close the loop in `lessons/23-capstone-launch-getadvice.md`. |
+
+When your retro is written and its last section — what GetAdvice should change — is concrete enough for a product team to act on, you have finished Stage 4. You did not just study a launch. You ran one, measured it, and told the truth about it. That loop — plan, defend, execute, measure, retro — is a career skill, and now it is yours. 📣
