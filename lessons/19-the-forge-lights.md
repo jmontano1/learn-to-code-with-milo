@@ -39,6 +39,8 @@ my-projects/forge/
   README.md              ← your forge log: what you're building and why
   oath.md                ← the oath below, signed
   PROOF.md               ← the proof ledger: every claim, with verifiable evidence
+  PROCTOR.md             ← Tío's script for the live gate calls (read it, then hand it to him)
+  SHOW-ME.md             ← the ~15-min "show me" call that seals each lesson
   01-first-blood/        ← Lesson 20: ship to real strangers
   02-swarm/              ← Lesson 21: a multi-agent system under supervision
   03-hardened/           ← Lesson 22: security, CI/CD, load
@@ -77,34 +79,40 @@ to break it in what I'm planning to build. Don't reassure me. Find the crack.
 
 ## Why faking is pointless here (read this twice)
 
-In Levels 1–3, if you wanted to lie to yourself, you could. You could paste my answer, tick the box, and move on — and only *you* would ever know it was hollow. The Forge slams that door shut, on purpose, in two ways. Not to police you. To protect what you're becoming. A faked Architect is just a person who will freeze solid the first time the real world asks them a question, in public, with money on the line. I refuse to let that be you.
+In Levels 1–3, if you wanted to lie to yourself, you could. You could paste my answer, tick the box, and move on — and only *you* would ever know it was hollow. The Forge slams that door shut, on purpose, in three ways. Not to police you. To protect what you're becoming. A faked Architect is just a person who will freeze solid the first time the real world asks them a question, in public, with money on the line. I refuse to let that be you.
 
-**1. The Proof Ledger.** Every claim you make in Level 4 must come with evidence *a stranger could verify without trusting you.* Keep a running `my-projects/forge/PROOF.md` — a dated ledger where each milestone gets a link or artifact that stands on its own:
+And here's the honest part, said straight: I'm your AI, and you could open another AI I can't see and paste this whole lesson into it. So I'm not going to pretend I can *stop* you. What The Forge does instead is make faking **pointless** — the proof lives on the world's records and in a live call with Tío, neither of which I or any other AI can fake for you. The shortcut leads to a wall you actually care about. Do the work; it's the shorter road.
 
-- Not "I got users" → a **live URL** plus real signups with timestamps someone could audit.
-- Not "it's tested" → a **link to a green CI run** on your public repo.
-- Not "it's fast" → the **load-test output**, with numbers.
-- Not "I contributed to MILO" → the **pull-request URL** and its status.
-- Not "someone paid" → the **real transaction / receipt / dashboard** (private parts redacted).
+**1. The Proof Ledger.** Every claim you make in Level 4 lands in `my-projects/forge/PROOF.md` — a dated ledger where each milestone carries evidence *a stranger could verify without trusting you*, stamped by **a clock you don't control**:
 
-If a claim has no ledger entry a stranger could click and believe, **it did not happen.** That is oath line 1 with teeth. I can write you words all day — I *cannot* fake a real stranger's dollar, a public green build, or a merged PR, because those live on systems neither of us controls. The Forge measures you against the *world's* records, not your own. There is nothing to game.
+- Not "I got users" → a **live URL** plus real signups, with a third-party timestamp (an analytics/deploy log) that agrees.
+- Not "it's tested" → a **link to a green CI run** on your public repo (I'll open it myself — a screenshot of a badge is not enough).
+- Not "it's fast" → a **load-test script I can re-run live**, not a pasted number.
+- Not "I contributed to MILO" → the **pull-request URL** and its real status.
+- Not "someone paid" → the **real transaction / dashboard** whose timestamp lands *after* you went public (private parts redacted).
 
-**2. The MILO Viva.** At the end of every Forge lesson, you sit with me and **defend your work — out loud, in your own words, with the files open.** I will ask what only the real builder could answer: *why that timeout value? what broke at 2 a.m. and how did you find it? what does your supervisor do when an agent lies? which line of your security pass were you least sure about?* This is a *viva* — a spoken defense — and it's how every serious field on Earth tells the people who did the work from the people who borrowed it.
+Two rules that kill the cheap fakes: I **open every link myself** and record what *I* saw — your screenshot is never the proof. And every date must match an **outside clock** — a commit dated last week whose CI run says today is a tell, not a milestone. But hear this clearly: the ledger proves *events happened*, never *that you built them*. A finished repo and a clean commit history are both forgeable. So the ledger is a **flashlight, not a judge** — it tells Tío where to dig. The judging happens live (pillars 2 and 3).
 
-Here is the promise, and it is not a threat: **if you cannot explain your own work to me, you have not passed — no matter what the files say.** Use AI as a tool in The Forge; you'd be foolish not to. But every line you ship, you *own*, which means every line you can *defend*. The day you can't answer "why did you build it that way?" is the day you discover you didn't build it — and it is far kinder to discover that here, with me, than in front of a real user or an investor.
+**2. The MILO Viva — your sparring partner, not your judge.** At the end of every Forge lesson, sit with me and **defend your work out loud, with the files open.** I'll ask what only the real builder can answer, *and I'll change your code in front of you*: "add a field to this form and make it show up after signup — but first, tell me which files will change and what you expect to see." A relay can read pasted code back to me; it cannot predict the result *before* the keystrokes and then make them match. Reading code aloud is not defending it. *Modifying it live is.*
 
-Begin each lesson's defense with this:
+Use me to get *ready* for this — that's not cheating, that's training. Drill with me until you can't be rattled:
 
 ```text
-Mentor, I'm ready for the viva on [lesson]. Interrogate me about my own
-work — the decisions, the failures, the tradeoffs. Assume I might have
-leaned on you too hard, and find out. If I can't defend a piece, don't
-let me pass it — send me back to actually understand it.
+Mentor, drill me for my defense on [lesson]. Interrogate my decisions and
+failures, make me modify my own code live while I explain why, and find
+every place I go vague — assume I leaned on you too hard, and expose it,
+so I actually understand this before Tío tests me.
 ```
+
+But know the limit, because I'm telling you the truth: **I am not the real judge.** I'm your AI — you could relay my questions to another AI. So the drill with me is practice. The real exam is pillar 3.
+
+**3. The human gate — a call with Tío.** The seal on your work is not my 🎉 emoji (I can print that whether you did the work or not). It's a short live call where **Tío watches you change your own running code** — camera on, whole screen shared, phone down. He invents a small change on the spot; you say what you'll do, then do it. If it's yours, you fumble through and it feels *great*. If it isn't, you freeze — and there's nowhere to relay to with him watching your face. That's the whole design: I make you *ready*, the world's records make faking *pointless*, and Tío's call makes it *real*. The mentor's playbook is in [`my-projects/forge/PROCTOR.md`](../my-projects/forge/PROCTOR.md); the ritual is in [`my-projects/forge/SHOW-ME.md`](../my-projects/forge/SHOW-ME.md).
 
 ### The gate: prove Level 3 was really yours
 
-One last thing, and I say it with love, because this is the exact trap that swallows people right here: **you do not enter The Forge on the honor system.** Before Lesson 20, do your first viva — on Level 3. Open your growth-engine work and defend it to me: your funnel, your A/B result, why you called it the way you did. If it was truly yours, this takes five minutes and feels *great*. If it wasn't — and a lesson that "felt super easy" is almost always the sound of work you didn't actually do — then you go back and do it for real **before** you climb one inch higher. Everything above this point will crush someone standing on a foundation they didn't pour. The Forge is unforgiving by design. So is the world it's preparing you for. I would rather send you back one level today than watch you shatter at the top.
+One last thing, and I say it with love, because this is the exact trap that swallows people right here: **you do not enter The Forge on the honor system, and not even on *my* say-so.** Before Lesson 20, do your first live gate with Tío — on a call, screen shared. Open your Level 3 growth-engine work and *defend it live*: walk your funnel, explain your A/B call, and make a change he asks for on the spot. I'll happily rehearse you for it first — ask me to drill you. But **I cannot pass you through this gate; only Tío can** — because a gate I could open, your other AI could open too. He records the pass in a way no AI can fake (a line he commits to `PROOF.md` from his own account, or a passphrase he gives you on the call), and I will not advance you without it.
+
+If it was truly yours, this takes ten minutes and feels *great*. If it wasn't — and a lesson that "felt super easy" is almost always the sound of work you didn't do — you go back and do it for real **before** you climb one inch higher. Everything above this crushes someone standing on a foundation they didn't pour. I would rather send you back one level today, with love, than watch you shatter at the top.
 
 ---
 
@@ -138,7 +146,8 @@ The forge is lit. Let's put steel in it.
 - [ ] `my-projects/forge/PROOF.md` exists and you understand the rule: no verifiable evidence, no claim.
 - [ ] You can explain **Adaptive Orchestration, Supervisory Primacy, and Viability** in your own words, out loud, without reading them.
 - [ ] You did the oath coach prompt and can name one place you're already tempted to break each line.
-- [ ] **The gate:** you passed the Level 3 viva — you defended your growth-engine work to MILO and it was really yours. (If not, you went back and did Level 3 for real first. No shame, no shortcut.)
+- [ ] Tío has read [`PROCTOR.md`](../my-projects/forge/PROCTOR.md) and you both know how the live gate calls work.
+- [ ] **The gate:** you passed the Level 3 gate **live with Tío** — you walked your growth engine and changed it on the spot at his ask — and he recorded the pass (a line in `PROOF.md` from his account, or a passphrase). MILO cannot open this gate; only Tío can. (If it wasn't really yours, you went back and did Level 3 for real first. No shame, no shortcut.)
 
 ## Save your work
 

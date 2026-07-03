@@ -166,9 +166,9 @@ Most developers, even paid ones, go years without shipping something a true stra
 - [ ] `real-users.md` lists **provable real strangers** who completed the core action, with your honest method for knowing each is real (no friends, no you, no fakes).
 - [ ] `distribution.md` logs every channel you tried, wins and misses.
 - [ ] `retro.md` fills every row and answers whether the pre-mortem called it.
-- [ ] **Ledger:** your **live URL** and the real-stranger evidence (timestamps, distinct accounts) are logged in `forge/PROOF.md` — links a stranger could open and believe.
-- [ ] **Viva:** you defended this build to MILO in your own words — *why this database, why this sign-in, what broke in production and how you found it* — and passed. If you couldn't explain a piece, you went back and learned it.
-- [ ] **The harder bar:** at least one stranger did more than a one-off tap — they came back, replied, or gave unprompted feedback. A single fluke click is not first blood; a stranger who *returned* is.
+- [ ] **Ledger:** your **live URL** and the real-stranger evidence (distinct accounts, timestamps that match an outside clock like your deploy/analytics log) are in `forge/PROOF.md` — links Tío can open himself, not screenshots.
+- [ ] **Live gate (with Tío, not just MILO):** before the call, drill with MILO. On the call, Tío reads your actual repo and names a target only findable there — *"the header color is one variable in one file: change it to red, and tell me the file and line before you push"*, or *"find the function that saves a user and make the live form reject a blank email."* You say what you'll change and why *first*, then do it while he watches your public URL actually change. The proof is Tío seeing it change — not a screenshot.
+- [ ] **Reachable strangers (Tío samples them):** at least **2 of your 5** left a trace on a public third-party surface Tío can open himself (a real reply, a review/star with a profile that predates your launch, a public post) — self-notified signup emails and bare anonymous clicks don't count. For at least 1, **Tío himself** messages that stranger at a time you can't predict and asks: *"How did you find this, and did anyone ask or pay you to try it?"* "A friend sent me / the maker asked me / it was paid" **fails that entry** — first blood means they *found* you.
 
 ## Save your work
 

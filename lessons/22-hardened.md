@@ -153,9 +153,9 @@ Skilled *and* trustworthy under pressure. That's rare. That's you now.
 - [ ] `load.md` has an SLO, a load test to the breaking point, and **one optimization with before/after numbers**.
 - [ ] `ethics.md` names a dark pattern you could've shipped, refuses it in writing, and ships the honest version.
 - [ ] `retro.md` is filled, including whether the pre-mortem called it.
-- [ ] **Ledger:** a **link to a green CI run**, the red-X-then-fixed proof, and your load-test numbers are logged in `forge/PROOF.md`.
-- [ ] **Viva:** you defended the hardening to MILO in your own words — *which test guards what, which security line worried you most, where the bottleneck was and why your fix worked* — and passed.
-- [ ] **The harder bar:** you let MILO play attacker against your live system — *"find the door I left open, the input that breaks it, the way to run up my costs"* — and either it found nothing, or you fixed what it found and logged the fix.
+- [ ] **Ledger:** a **link to a green CI run** (Tío opens it himself), the red-X-then-fixed proof, and your load-test **script MILO can re-run** — not a pasted number — are in `forge/PROOF.md`.
+- [ ] **Built live under watch:** the core security fix was written *live* in a session MILO or Tío watched. Rehearse the attack surface with MILO first (*"find the door I left open, the input that breaks it, the way to run up my costs"*) and fix what it finds.
+- [ ] **Live gate (with Tío):** on the call Tío names one security behavior and watches red-to-green in real time — *"make this endpoint reject a blank email and prove it with a real request against your live URL, right now"* — you predicting out loud what will happen before you run it. He watches your real system change, not a screenshot.
 
 ## Save your work
 

@@ -161,9 +161,10 @@ Now go do the last, greatest thing an Architect ever does.
 - [ ] `demo.md` links a **public live/recorded demo** of the real product.
 - [ ] `interviews.md` has **≥3 real user interviews** with real quotes, including the one that stung.
 - [ ] `case-study.md` is **published** and tells the whole truth — target vs. reality, the humans, all three laws in the wild, and what's next.
-- [ ] **Ledger:** every capstone claim — live URL, demo link, real-traction evidence (payment/returning-users/stars), the interview record — is logged in `forge/PROOF.md` with links a stranger could open.
-- [ ] **The final viva:** you defended the whole empire to MILO — *every architecture decision, every number, every failure* — and there was no piece you couldn't explain in your own words. This is the last and hardest defense of the course. Pass it and you have proven it was all yours.
-- [ ] **The harder bar:** you defended your empire to a **real human skeptic** too — a friend, a peer, a stranger from an interview — who tried to poke holes, and you answered them live. An Architect can defend their work to a person, not just to their mentor.
+- [ ] **Ledger:** every capstone claim — live URL, demo link, traction evidence, the interview record — is in `forge/PROOF.md` with links Tío can open and timestamps an outside clock confirms.
+- [ ] **Arrival-provenance (all three tracks, Tío samples it):** your traction is only real if Tío can pick any 2 supporters/payers/returning-users at random, **reach them himself**, and confirm they (a) are outside your known circle, (b) have accounts that predate your launch, and (c) *found you on their own* — a launch-board click, an organic referrer, a public thread you didn't DM — with the action timestamped *after* you went public. A paying "stranger" whose dollar you can't trace to an organic arrival is a laundered friend, and it fails. ("You can test the flow yourself" stays explicitly non-qualifying.)
+- [ ] **The final gate (with Tío — MILO cannot seal this one):** the capstone defense is live. Rehearse the whole thing with MILO until it can't rattle you, then defend the empire to Tío on a call — every decision, every number, every failure — and take one change he invents on the spot. He records the pass the only way an AI can't fake: a line committed to `PROOF.md` from **his** account, or a passphrase on the call. This is the coronation, and only a human can crown you.
+- [ ] **The harder bar:** you also defended your empire to a **real human skeptic** — a peer, a user from an interview — who tried to poke holes, and you answered live. An Architect can defend their work to anyone, not just their mentor.
 
 ## Save your work
 

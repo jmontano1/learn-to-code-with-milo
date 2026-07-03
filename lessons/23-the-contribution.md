@@ -120,8 +120,8 @@ Most people consume tools their whole lives. You just extended one, and taught s
 - [ ] `publication.md` links a **published, honest** case study or mini-paper with real numbers and real failures, tied to a MILO law.
 - [ ] `retro.md` is filled, including anything rejected/ignored and what you did with it.
 - [ ] **Ledger:** the **pull-request URL** (or published extension repo), the case-study link, and a link/name for the person you led are logged in `forge/PROOF.md`.
-- [ ] **Viva:** you defended the contribution to MILO in your own words — *what it actually does, which MILO law it serves, what was hard about leading a human instead of doing it yourself* — and passed.
-- [ ] **The harder bar:** your contribution got a **real response from the outside** — a review, a merge, a star, a reply, a change request. Submitted-into-the-void doesn't count; contact with the community does. (A rejection you answered counts fully.)
+- [ ] **Live gate (with Tío):** rehearse with MILO, then defend the contribution live — *what it actually does, which MILO law it serves, what was hard about leading a human instead of doing it yourself.* For the person you led, Tío can ask **them** one question only their real coach's fingerprint would match (*"what did you say when they got stuck on X — did it sound like them, or like pasted AI?"*), and you must reconstruct that same messy moment live. Two accounts that match on human specifics an AI can't pre-write is the proof you led.
+- [ ] **The harder bar:** your contribution got a **real response from the outside** — a review, a merge by a maintainer you don't control, a star, a change request. Submitted-into-the-void doesn't count; contact with the community does. (A rejection you answered counts fully.)
 
 ## Save your work
 

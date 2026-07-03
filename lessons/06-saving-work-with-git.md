@@ -114,6 +114,20 @@ Open that link. Your files are there, on the internet, backed up and safe.
 
 ---
 
+## Optional: turn on the little "Verified" checkmark
+
+Here's a small pro move you can turn on now. GitHub can put a green **Verified** badge next to your saves, which just means "this save really came from *your* account." It's nice to have, and from Level 4 on, your Forge work should show it. Ask MILO:
+
+```text
+Help me turn on signed commits for my GitHub account, one step at a time —
+explain what signing means in plain words first, then walk me through the
+setup and check it worked with a test commit.
+```
+
+One honest note so you're never confused later: that checkmark proves a save came from your account — it does **not** prove *you* wrote the code (you could sign code an AI wrote). It's good hygiene, not a lie detector. Later, in The Forge, what proves the work is yours is being able to *explain and change it live* — never the badge alone. For now, just enjoy the checkmark. ✅
+
+---
+
 ## 🎉 Milestone: your work is saved on GitHub
 
 Stop and feel this for a second.
