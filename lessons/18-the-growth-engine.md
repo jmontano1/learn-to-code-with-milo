@@ -1,6 +1,6 @@
 # Lesson 18 — The Growth Engine: Advanced AI Marketing
 
-Lesson 17 was the hardest lesson in the repo. This one is harder, and it is harder on purpose.
+Lesson 17 was the hardest lesson so far. This one is harder, and it is harder on purpose.
 
 In Lesson 17 you launched **one** campaign. You picked one person, one number, one page, one send. You found out, in public, whether a stranger did the thing you asked. That was a single shot. A single shot teaches you courage.
 

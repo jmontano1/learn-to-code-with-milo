@@ -1,13 +1,13 @@
 # Lesson 15 — Capstone: Fix Something Real
 
-This is the last lesson of the Builder's Track, and it is different from every lesson before it.
+This is the capstone of the Builder's Track, and it is different from every lesson before it.
 
-Back in [lessons/07-giving-good-feedback.md](07-giving-good-feedback.md), you filed two real feedback notes about GetAdvice — MILO's friendly face:
+The repo ships two **example** feedback notes about GetAdvice — MILO's friendly face — in `feedback-getadvice/notes/`:
 
-- `feedback-getadvice/notes/2026-07-01-app-froze.md`
-- `feedback-getadvice/notes/2026-07-01-incorrect-info.md`
+- `2026-07-01-app-froze.md`
+- `2026-07-01-incorrect-info.md`
 
-Those notes are complaints. Good ones — but complaints. Today you turn **one of them** into a **contribution**, following the exact pattern real software teams use:
+They're worked examples of the kind of real complaint you learned to write in [lessons/07-giving-good-feedback.md](07-giving-good-feedback.md). Today you turn **one of them** into a **contribution — in your own file —** following the exact pattern real software teams use:
 
 | Step | Real-team name | What it means |
 | --- | --- | --- |
@@ -21,9 +21,11 @@ Feedback → repro → hypothesis → spec → prototype → review. That is not
 
 ---
 
-## Step 0 — Pick your one
+## Step 0 — Pick your one, and make it yours
 
-Open both notes and pick ONE to carry all the way through. Pick the one that bothers you more — caring about the problem is fuel. Do not do both. Depth beats coverage.
+Open both example notes and pick ONE topic to carry all the way through — the one that bothers you more (caring about the problem is fuel). Do not do both; depth beats coverage.
+
+Now make it yours: **create a new note for your work** — something like `feedback-getadvice/notes/my-fix.md` — and do every step below in *that* file. The two shipped notes are references to study, not files to edit. Everything you turn in should be work you wrote.
 
 ---
 
@@ -31,7 +33,7 @@ Open both notes and pick ONE to carry all the way through. Pick the one that bot
 
 A repro is a recipe for the bug. If a stranger follows your steps and sees the same problem, your repro is good. This is the detective skill from [lessons/13-the-detective-lessons.md](13-the-detective-lessons.md), pointed at a real app.
 
-**Your goal:** add a `## Repro` section to your chosen note with:
+**Your goal:** add a `## Repro` section to *your own* note with:
 
 - Numbered, exact steps ("Open GetAdvice. Tap the mic button. Ask: ...")
 - **Expected:** what should have happened, one sentence
@@ -62,7 +64,7 @@ hypothesis is specific and testable. Then critique what I wrote.
 
 ## Step 3 — Write a one-page fix spec
 
-A spec is a promise written before the work: *what* should change, and *how we will know it worked*. Create `feedback-getadvice/notes/2026-07-01-fix-spec.md` with exactly four headings:
+A spec is a promise written before the work: *what* should change, and *how we will know it worked*. Add a `## Fix spec` section to your note (or a separate `my-fix-spec.md` you create) with exactly four headings:
 
 | Heading | What goes there |
 | --- | --- |
@@ -88,7 +90,7 @@ Now prove your idea works — with structure, paint, and wiring you already own.
 
 ## Step 5 — Ship it for review
 
-Commit, push, then email a 5-line summary to **milo@jmautomated.com**:
+Commit, push, then signal it's ready — email a 5-line summary to **milo@jmautomated.com** (or, if email isn't set up, commit a `SHIPPED.md` with the same five lines):
 
 1. Which feedback note you chose
 2. Your hypothesis, in one sentence
@@ -118,11 +120,11 @@ You are no longer just learning to code. You are contributing.
 
 ## Prove it
 
-- [ ] Your chosen note has a `## Repro` section with numbered steps, Expected, and Actual — and you re-tested it today
+- [ ] Your own note has a `## Repro` section with numbered steps, Expected, and Actual — and you re-tested it today
 - [ ] Your hypothesis is written down and starts with "I think this happens because..."
-- [ ] `2026-07-01-fix-spec.md` exists, fits on one page, and has all four headings
+- [ ] Your note (or a `my-fix-spec.md` you wrote) has a `## Fix spec` that fits on one page with all four headings
 - [ ] Your prototype in `my-projects/fix-prototype/` runs in a browser and shows the FIXED behavior
-- [ ] Your commit is pushed and the email to milo@jmautomated.com is sent, five lines, with a link
+- [ ] Your commit is pushed, and you signaled it's ready for review — email a 5-line summary to milo@jmautomated.com, **or** commit a `SHIPPED.md` with the same five lines so your instructor sees it in the repo
 
 ## Save your work
 
@@ -132,4 +134,4 @@ Commit everything with a message that states the contribution, like `capstone: r
 
 You finished the Builder's Track. You can build, and you can fix real things. But building is only half the game — the other half is getting real people to *care* about what you built.
 
-That is **Level 3: The Launch Track**, and it starts now: **[lessons/16-level-3-the-launch-track.md](16-level-3-the-launch-track.md)**. It is the hardest thing in this repo — you'll put a real page live on the internet, run a real campaign, and measure whether real humans showed up. Read [roadmap.md](../roadmap.md)'s new **Stage 4** for the map, then open Lesson 16 when you're ready to be heard.
+That is **Level 3: The Launch Track**, and it starts now: **[lessons/16-level-3-the-launch-track.md](16-level-3-the-launch-track.md)**. It is the hardest thing yet — you'll put a real page live on the internet, run a real campaign, and measure whether real humans showed up. Read [roadmap.md](../roadmap.md)'s **Stage 4** (the map for this Level 3), then open Lesson 16 when you're ready to be heard.

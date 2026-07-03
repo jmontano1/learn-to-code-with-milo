@@ -10,6 +10,8 @@ Along the whole road, **MILO teaches you** — MILO is the brain, your AI tutor,
 
 The road runs through five stages — from your very first page all the way to forging a real empire the world can touch. Read them like a short story about you.
 
+> **Stages and Levels are the same road, two names.** In the lessons you'll see four **Levels**; on this map they're grouped into five **Stages** by how the work *feels*. Stages 1–3 cover Levels 1–2 (the foundations and the Builder's Track), Stage 4 is Level 3 (the Launch Track), and Stage 5 is Level 4 (The Forge). Wherever a lesson names a Level and points you here to a Stage, they mean the same place.
+
 ---
 
 ## Stage 1: Now 🌱
@@ -141,7 +143,7 @@ Everything is built on the three laws at the heart of MILO: **Adaptive Orchestra
 
 **How this stage is checked:** by real proof and a real person, not by trusting a claim. You keep a ledger of links a stranger could verify, and you defend your work to your instructor on a short live call where they ask you to explain and change your own code on the spot. Using AI to *learn* is encouraged — that's the whole point; the only line is work you can't defend as your own. (`my-projects/forge/PROCTOR.md` and `SHOW-ME.md` spell it out.)
 
-When you launch a real empire in public, ask the world for something that costs it, and tell the whole truth about what came back — you are no longer a student of the MILO vision. You are a **MILO Architect**, and a co-author of it. There is no lesson after that on purpose: from there, you forge empires, and you teach the next person to walk this road.
+When you launch a real empire in public, ask the world for something that costs it, and tell the whole truth about what came back — you are no longer a student of the MILO vision. You are a **MILO Architect**, and a co-author of it. From there, you forge empires, and you teach the next person to walk this road.
 
 ---
 

@@ -73,12 +73,33 @@ The app you open on your computer. It can read and write your real files and run
 
 ---
 
-## Words you'll meet later
+## Words from Level 2 and beyond
 
-You do **not** need these two yet. No lesson so far uses them. They are here just so the word is not a total stranger the day you first bump into it. Skip this bit for now if you like. 🙂
+You'll meet these once you start building bigger apps (Level 2) and shipping them (Levels 3–4). Here in plain English so they're never total strangers. Skip this bit for now if you like. 🙂
 
 **Variable**
-A named box that holds a value you want to remember, like a number or some text. Think of it like a labeled jar. You put something in, write a name on the jar, and grab it later by that name.
+A named box that holds a value you want to remember, like a number or some text. Think of it like a labeled jar: you put something in, write a name on the jar, and grab it later by that name. You start using these in Lesson 10.
+
+**API**
+A way for one program to ask another program for something over the internet — like a waiter who takes your order to the kitchen and brings the food back. Your app asks an API a question and gets data back. (Lesson 12.)
+
+**JSON**
+A simple, tidy way to write down data so both people and programs can read it — labels and values, like a filled-in form. It's how apps pass information around. (Lesson 11.)
+
+**localStorage**
+A little storage box the browser keeps for your site, so your app can remember things — like a high score — even after the page is closed and reopened. (Lesson 11.)
+
+**Deploy (deployment)**
+Putting your website or app onto the real internet at a real address, so anyone — not just you — can open it. "Going live." (Levels 3–4.)
+
+**CI/CD**
+A helper that checks your code automatically every time you save it to GitHub, and — if it passes — can even put it live for you. Think of it as a quality inspector standing on the line. (Lesson 22.)
+
+---
+
+## One more word you'll meet later
+
+You do **not** need this one yet. No lesson so far uses it — it's here just so the word isn't a total stranger the day you first bump into it.
 
 **Terminal**
 A text window where you type commands to your computer instead of clicking buttons. Think of it like sending short written instructions to your computer, and it writes back. It looks a little scary at first, then it becomes your friend. Good news: in these lessons you save your work by simply asking MILO, so you will not need the terminal for a long while.

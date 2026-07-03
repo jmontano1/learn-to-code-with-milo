@@ -1,6 +1,6 @@
 # Lesson 17 — Deploy a Marketing Campaign
 
-This is the hardest lesson in the whole repo. Read that as a promise, not a warning.
+This is the hardest lesson so far. Read that as a promise, not a warning.
 
 Every lesson before this had a safety net: it all lived on your computer, where the only judge was you. This one does not. Today you put something **live on the internet**, ask **real people** to do a **specific thing**, and **count** whether they did. You will set a number in advance and then find out, in public, if you hit it.
 
@@ -215,4 +215,4 @@ Commit and push everything with a message that states the launch, like `Level 3:
 
 You launched once. Next you build the machine that launches, tests, and improves *itself*. **[Lesson 18 — The Growth Engine](18-the-growth-engine.md)** is advanced AI marketing: use AI to generate at speed, then run a pre-registered A/B experiment, count an honest funnel, and prove with real math whether the engine actually turned — or whether you just got busy. It is harder than this lesson, which is why it comes after it. Open it when your campaign here has run and you've written your retro.
 
-After that, the loop is yours: build a thing, launch it, grow it as a measured engine, repeat. Open [roadmap.md](../roadmap.md), read **Stage 4** one more time, and notice that its last milestone has no finish line on purpose. Keep launching. Then teach someone else to, the way this repo taught you. 🚀
+After that, the loop is yours: build a thing, launch it, grow it as a measured engine, repeat. Open [roadmap.md](../roadmap.md), read **Stage 4** (the map for this Level 3) one more time, and notice that its last milestone has no finish line on purpose. Keep launching. Then teach someone else to, the way this repo taught you. 🚀

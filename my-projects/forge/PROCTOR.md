@@ -38,14 +38,14 @@ Relaying to a hidden AI produces the two things you can see over video: **latenc
 
 Your leniency is the one thing that defeats every safeguard in this repo. This rule exists to take that discretion out of your hands. Sending the learner back is not a punishment — it's you refusing to let them arrive at the top standing on a foundation they didn't pour, where the fall is real.
 
-## Recording a pass MILO can't forge
+## Recording the pass
 
-MILO is **not allowed** to open the two hard gates (Lesson 19 entry, and the Lesson 24 capstone) — because a gate MILO can open, the outside AI can open too. Only you can pass the learner, and you do it in a way their AI can't fake:
+The pass is *earned in the call above* — that is the gate. MILO is not allowed to open the two hard gates (Lesson 19 entry, the Lesson 24 capstone) on its own, because a gate MILO can open, the outside AI can open too. Once the learner has genuinely passed the live call, you record it so MILO knows to advance:
 
-- **Strong form:** commit one line to `my-projects/forge/PROOF.md` **from your own GitHub account** (the instructor's login, e.g. `jmontano1`) — e.g. `PASS: Lesson 19 gate — [date] — instructor`. Their AI cannot commit as you. MILO is told to check for *your* committer login and refuse to advance without it.
-- **Lighter form:** say a short passphrase on the call that they paste into MILO.
+- **Best:** push one line to `my-projects/forge/PROOF.md` **from your own GitHub account** and to the **remote** — e.g. `PASS: Lesson 19 gate — [date] — instructor`. MILO can sanity-check with `gh api` that the *remote* commit shows your login. (Be aware: a *local* commit's author is forgeable — anyone with push access can set `git config` to your name — so it's the pushed remote record, tied to the live call, that carries the weight, not a local file.)
+- **Fine for the per-lesson Show-me calls:** just say a short passphrase on the call. It's honor-based, so don't lean on it for the two hard gates — use the pushed record there.
 
-If the call doesn't happen, the gate stays shut. That's the point: "the review got skipped" becomes a wall, not a silent bypass.
+If the call doesn't happen, the gate stays shut. That's the point: "the review got skipped" becomes a wall, not a silent bypass. And remember what actually holds — not the file, but the ten minutes where you watched them build.
 
 ## When to run it
 

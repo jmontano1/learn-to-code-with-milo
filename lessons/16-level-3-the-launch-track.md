@@ -52,7 +52,7 @@ Level 3 is two serious projects, each harder than the last.
 - Write a real campaign — a headline, a message, posts, an email — under tight constraints.
 - Launch it, **count the result**, and write an honest retro.
 
-**Then, the engine: [lessons/18-the-growth-engine.md](18-the-growth-engine.md).** Once you've launched *once*, you build the machine that launches, tests, and improves *itself* — advanced AI marketing. You'll use AI to generate at speed, then run a **pre-registered A/B experiment**, count an honest funnel, and prove with real math whether the engine turned. It is the hardest lesson in the repo, on purpose.
+**Then, the engine: [lessons/18-the-growth-engine.md](18-the-growth-engine.md).** Once you've launched *once*, you build the machine that launches, tests, and improves *itself* — advanced AI marketing. You'll use AI to generate at speed, then run a **pre-registered A/B experiment**, count an honest funnel, and prove with real math whether the engine turned. It is the hardest lesson yet, on purpose.
 
 Each is harder than the capstone. You will feel, at least once, like you have no idea whether any of it will work. Good. That feeling — shipping anyway, then measuring instead of guessing — is the entire point.
 
@@ -64,5 +64,13 @@ Two promises to yourself:
 
 1. **Real humans only.** No fake numbers, no bought followers, no counting yourself. A campaign that honestly reaches two real people beats one that pretends to reach a thousand. Lying to your own metric is the one unforgivable move in Level 3.
 2. **The number is the teacher, not the judge.** You might hit your target. You might miss it badly. Either way you *win the lesson*, as long as you measured honestly and can say why it went the way it did. Missing a real target teaches more than hitting a fake one.
+
+---
+
+## 🎉 Milestone: you're on the Launch Track
+
+You understand the new deal — building is speaking, launching is being heard — and you know the one loop of Level 3: pick who you're for, make an offer they'd care about, put it in front of them, count what happened, learn from the number. That mindset shift is the win here; the doing starts next.
+
+---
 
 Ready to be heard? Open **[lessons/17-deploy-a-marketing-campaign.md](17-deploy-a-marketing-campaign.md)**.

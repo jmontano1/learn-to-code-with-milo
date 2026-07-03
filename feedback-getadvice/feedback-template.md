@@ -45,7 +45,7 @@ _(Any idea you have. It is totally fine to leave this empty.)_
 
 ---
 
-## 🎉 You did it
+## Nice work
 
 You wrote a real feedback note. That is a genuine contribution to a live app, not practice work. Nice.
 

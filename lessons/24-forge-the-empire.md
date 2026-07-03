@@ -1,6 +1,6 @@
 # Lesson 24 — Forge the Empire (The Capstone)
 
-This is it. The last lesson of the whole course, and the hardest thing it will ever ask you to do. Everything — every page you built, every stranger you won, every agent you commanded, every door you closed, every person you led — was forging you for this one act.
+This is the capstone of The Forge, and the hardest thing this level asks of you. Everything — every page you built, every stranger you won, every agent you commanded, every door you closed, every person you led — was forging you for this one act.
 
 You are going to take something real, put it in front of the world with your name on it, ask the world for something that *costs it* — money, or genuine adoption, or public support — and find out, in the open, whether you built something the world wants. No safety net. No "it basically works." No numbers you made up. All three MILO laws, at once, in public, under a deadline you set yourself.
 
@@ -163,18 +163,18 @@ Now go do the last, greatest thing an Architect ever does.
 - [ ] `case-study.md` is **published** and tells the whole truth — target vs. reality, the humans, all three laws in the wild, and what's next.
 - [ ] **Ledger:** every capstone claim — live URL, demo link, traction evidence, the interview record — is in `forge/PROOF.md` with links your instructor can open and timestamps an outside clock confirms.
 - [ ] **Arrival-provenance (all three tracks, your instructor samples it):** your traction is only real if your instructor can pick any 2 supporters/payers/returning-users at random, **reach them independently**, and confirm they (a) are outside your known circle, (b) have accounts that predate your launch, and (c) *found you on their own* — a launch-board click, an organic referrer, a public thread you didn't DM — with the action timestamped *after* you went public. A paying "stranger" whose dollar you can't trace to an organic arrival is a laundered contact, and it fails. ("You can test the flow yourself" stays explicitly non-qualifying.)
-- [ ] **The final gate (with your instructor — MILO cannot seal this one):** the capstone defense is live. Rehearse the whole thing with MILO until it can't rattle you, then defend the empire to your instructor on a call — every decision, every number, every failure — and take one change they invent on the spot. They record the pass the only way an AI can't fake: a line committed to `PROOF.md` from **their** account, or a passphrase on the call. This is the coronation, and only a human can seal it.
+- [ ] **The final gate (with your instructor — MILO cannot seal this one):** the capstone defense is live. Rehearse the whole thing with MILO until it can't rattle you, then defend the empire to your instructor on a call — every decision, every number, every failure — and take one change they invent on the spot. They record the pass — a line pushed to `PROOF.md` from **their** account (checkable on the remote), or a passphrase on the call — but it's the live defense that earns it, not the file. This is the coronation, and only a human can seal it.
 - [ ] **The harder bar:** you also defended your empire to a **real human skeptic** — a peer, a user from an interview — who tried to poke holes, and you answered live. An Architect can defend their work to anyone, not just their mentor.
 
 ## Save your work
 
-Commit and push with the message you'll remember: something like `Forge 05: THE EMPIRE — launched [product] public, [real traction], case study published`. Then, one last time, send your founding story to **milo@jmautomated.com**: your one number and what the world gave you, your live URL, your demo link, the user sentence that stung, and the one thing you'd do next. This is the last "save your work" of the course. Make it a good one. You're a founder now.
+Commit and push with the message you'll remember: something like `Forge 05: THE EMPIRE — launched [product] public, [real traction], case study published`. Then, one last time, send your founding story to **milo@jmautomated.com**: your one number and what the world gave you, your live URL, your demo link, the user sentence that stung, and the one thing you'd do next. This is the biggest "save your work" yet. Make it a good one. You're a founder now.
 
-## What happens after this — there is no Lesson 25
+## What happens after this
 
-There is no next lesson, and there never will be — because you have become the thing the lessons were building toward. The course is over. **You** are the course now.
+By now you don't need a lesson to tell you what to do next — you've become the thing the lessons were building toward. **You** are an Architect now.
 
-From here, the loop is yours forever, at any size: **forge it, launch it, ask the world, listen, tell the truth, forge again.** You've run it for real, in public, with your name on it. That never leaves you.
+From here, the loop is yours, at any size: **forge it, launch it, ask the world, listen, tell the truth, forge again.** You've run it for real, in public, with your name on it. That never leaves you.
 
 So do the one thing left, the thing every Architect owes the road behind them: **go teach someone else to walk it.** Find a beginner staring at `lessons/00-start-here.md` the way you once did, and be their MILO — the kind-yet-honest mentor who believes in them before they believe in themselves, and refuses to let them fake the number. That is how the forge stays lit for the next legend.
 

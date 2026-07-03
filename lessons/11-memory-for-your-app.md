@@ -59,9 +59,11 @@ Find out — check it in the console before writing another line. Your code must
 
 ---
 
-## The challenge: a trophy room
+## The challenge: a trophy room *(optional stretch)*
 
-Your site already has a trophy room waiting: the **scores.html** placeholder you built in [lessons/09-a-site-with-rooms.md](09-a-site-with-rooms.md) — "Scores arrive in Lesson 11," it says. That's now. Time to fill it in.
+This one is a **stretch goal** — a second page, so it's a real step up. If your quiz already saves and loads correctly (best score, attempts, last-played, and the friendly empty state), you have already passed this lesson's core. Do the trophy room when you're ready for the challenge; it's worth it, but it's not required to move on.
+
+Your site has a trophy room waiting: the **scores.html** placeholder you built in [lessons/09-a-site-with-rooms.md](09-a-site-with-rooms.md) — "Scores arrive in Lesson 11," it says. Time to fill it in.
 
 **The goal:** scores.html reads the saved data from localStorage and shows the history in a real HTML table — one row per round, with the score and the date. Above the table, show the best score and total attempts.
 
@@ -114,10 +116,10 @@ Structure, paint, wiring — and now a filing cabinet that survives the lights g
 Show, don't feel. Check off every one:
 
 - [ ] Play a round, **fully quit the browser** (not just the tab), reopen — best score, attempts, and last-played are still there.
-- [ ] Play two rounds — attempts goes up by exactly 2, and history shows both rounds on scores.html.
+- [ ] Play two rounds — attempts goes up by exactly 2.
 - [ ] Score lower than your best — best score does **not** go down.
-- [ ] Open scores.html — the table shows one row per round, with score and date.
-- [ ] Wipe the memory (ask MILO how to clear localStorage from the console), reload scores.html — the friendly empty state appears, no errors in the console.
+- [ ] Wipe the memory (ask MILO how to clear localStorage from the console), reload the quiz — it starts clean with no errors in the console.
+- [ ] *(stretch — the trophy room)* Open scores.html — it shows one row per round with score and date, and a friendly empty state when there's no saved data yet.
 
 ---
 

@@ -10,7 +10,7 @@ Back to the house: when a light does not turn on, you do not repaint the walls. 
 
 ## Your detective toolkit
 
-**Tool 1 — the console.** Open your Study Buddy page in the browser, right-click anywhere, choose **Inspect**, then click the **Console** tab. (Shortcut on a Mac: **Cmd + Option + J**.) Using Safari? First turn on the Develop menu (Safari → Settings → Advanced → "Show features for web developers"), then right-click → **Inspect Element** works — the shortcut above is Chrome's. This panel is where the browser reports every complaint from your wiring. Keep it open for this whole lesson.
+**Tool 1 — the console.** Open your Study Buddy page in the browser, right-click anywhere, choose **Inspect**, then click the **Console** tab. (Keyboard shortcut on a Mac: **Cmd + Option + J** in Chrome/Edge, **Cmd + Option + K** in Firefox.) Using Safari? First turn on the Develop menu (Safari → Settings → Advanced → "Show features for web developers"), then right-click → **Inspect Element** works. The right-click → Inspect path works in every browser, so lean on that if a shortcut doesn't. This panel is where the browser reports every complaint from your wiring. Keep it open for this whole lesson.
 
 **Tool 2 — error anatomy.** Every error answers three questions, in this order:
 

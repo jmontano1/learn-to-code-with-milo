@@ -1,6 +1,6 @@
 # Lesson 7: Giving Good Feedback 🔍
 
-You made it to the last lesson of the core path. That is a real achievement.
+You made it to the end of Level 1's core path. That is a real achievement.
 
 Here is something that might surprise you: **you can help make a real app better right now**, before you even know how to build big features. You do it by **testing** the app and telling the team what you find.
 

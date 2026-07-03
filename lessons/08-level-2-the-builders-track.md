@@ -2,7 +2,7 @@
 
 Stop for a second and look at what you just did.
 
-You finished **all seven lessons** of Level 1. You built **two projects** with your own hands. You made **real git commits** — actual save points a real developer would recognize. And you filed **two real feedback notes** on a live app: [feedback-getadvice/notes/2026-07-01-app-froze.md](../feedback-getadvice/notes/2026-07-01-app-froze.md) and [feedback-getadvice/notes/2026-07-01-incorrect-info.md](../feedback-getadvice/notes/2026-07-01-incorrect-info.md). Those notes are not homework. They are contributions to a product people use.
+You finished **all seven lessons** of Level 1. You built **two projects** with your own hands. You made **real git commits** — actual save points a real developer would recognize. And you wrote **real feedback** on a live app — the kind of clear, kind note a real developer files. That feedback is not homework; it's a contribution to a product people use.
 
 Most people never get this far. You did it in one run. So here is your reward: **things get harder now.** On purpose. Welcome to the Builder's Track.
 
@@ -59,7 +59,7 @@ Level 2 has one running project and two special tracks.
 
 **The detective lessons (13–14).** Then you switch hats. In [13 — The Detective Lessons](13-the-detective-lessons.md) you learn to hunt bugs on purpose, and in [14 — Reading Strangers' Code](14-reading-strangers-code.md) you open code you did not write and figure out what it does. Writing code is speaking; reading code is a whole second language.
 
-**The capstone (15).** In [15 — Capstone: Fix Something Real](15-capstone-fix-something-real.md), you take **your own two GetAdvice feedback notes** — the froze bug and the incorrect-info one — and turn one of them into a real fix proposal. The notes you wrote today become the raw material for real work. That was the plan all along.
+**The capstone (15).** In [15 — Capstone: Fix Something Real](15-capstone-fix-something-real.md), you take one of the **example GetAdvice feedback notes** — the froze bug or the incorrect-info one — and turn it into a real fix proposal, in your own file. Real feedback becomes the raw material for real work. That was the plan all along.
 
 ---
 
