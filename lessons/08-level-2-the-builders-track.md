@@ -105,7 +105,7 @@ Level 1 taught you to follow the map. Level 2 teaches you to draw it.
 
 - [ ] `my-projects/study-buddy/README.md` exists and says, in your words, what Study Buddy will do.
 - [ ] You can show a conversation where you used a coach-mode prompt and MILO quizzed you instead of lecturing you.
-- [ ] You can point to your two feedback notes in `feedback-getadvice/notes/` and say which one you'd pick for the capstone, and why in one sentence.
+- [ ] You can open the two **example** feedback notes in `feedback-getadvice/notes/` and say which one you'd pick for the capstone, and why in one sentence.
 - [ ] You can say the three moves of a coach-mode prompt out loud without looking: goal, boundary, invite.
 
 ## Save your work

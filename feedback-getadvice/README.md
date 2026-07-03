@@ -55,7 +55,7 @@ you notice.
 Ready? Grab the template and start:
 [`feedback-getadvice/feedback-template.md`](feedback-template.md)
 
-🎉 **You did it:** you know how to test GetAdvice and turn what you notice
+🎉 **Nice work —** you know how to test GetAdvice and turn what you notice
 into a clear, kind note.
 
 Want a refresher on writing great feedback first? Head to

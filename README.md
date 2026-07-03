@@ -72,7 +72,7 @@ This is the final transformation, and it is not for everyone. Level 4 takes the 
 2. **Type the code yourself.** Don't copy and paste big blocks of code. Typing it by hand is how your brain actually learns. Slow is smooth, and smooth is fast.
 3. **Always ask "why?"** If something doesn't make sense, ask MILO to explain it again in a simpler way. There are no dumb questions here, ever.
 
-## You did it 🎉
+## 🎉 Milestone: you met your classroom
 
 You just met your classroom and learned what a repo is. That is a real first step, and you're already on your way.
 
