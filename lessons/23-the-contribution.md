@@ -119,6 +119,9 @@ Most people consume tools their whole lives. You just extended one, and taught s
 - [ ] `leadership.md` documents **leading at least one real human** in real technical work — who, what they achieved, what was hard (simulated collaborators disclosed honestly if used).
 - [ ] `publication.md` links a **published, honest** case study or mini-paper with real numbers and real failures, tied to a MILO law.
 - [ ] `retro.md` is filled, including anything rejected/ignored and what you did with it.
+- [ ] **Ledger:** the **pull-request URL** (or published extension repo), the case-study link, and a link/name for the person you led are logged in `forge/PROOF.md`.
+- [ ] **Viva:** you defended the contribution to MILO in your own words — *what it actually does, which MILO law it serves, what was hard about leading a human instead of doing it yourself* — and passed.
+- [ ] **The harder bar:** your contribution got a **real response from the outside** — a review, a merge, a star, a reply, a change request. Submitted-into-the-void doesn't count; contact with the community does. (A rejection you answered counts fully.)
 
 ## Save your work
 

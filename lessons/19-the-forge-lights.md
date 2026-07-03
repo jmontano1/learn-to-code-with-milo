@@ -38,6 +38,7 @@ Everything in Level 4 lives in one workspace: **`my-projects/forge/`**. Make it 
 my-projects/forge/
   README.md              ← your forge log: what you're building and why
   oath.md                ← the oath below, signed
+  PROOF.md               ← the proof ledger: every claim, with verifiable evidence
   01-first-blood/        ← Lesson 20: ship to real strangers
   02-swarm/              ← Lesson 21: a multi-agent system under supervision
   03-hardened/           ← Lesson 22: security, CI/CD, load
@@ -74,6 +75,39 @@ to break it in what I'm planning to build. Don't reassure me. Find the crack.
 
 ---
 
+## Why faking is pointless here (read this twice)
+
+In Levels 1–3, if you wanted to lie to yourself, you could. You could paste my answer, tick the box, and move on — and only *you* would ever know it was hollow. The Forge slams that door shut, on purpose, in two ways. Not to police you. To protect what you're becoming. A faked Architect is just a person who will freeze solid the first time the real world asks them a question, in public, with money on the line. I refuse to let that be you.
+
+**1. The Proof Ledger.** Every claim you make in Level 4 must come with evidence *a stranger could verify without trusting you.* Keep a running `my-projects/forge/PROOF.md` — a dated ledger where each milestone gets a link or artifact that stands on its own:
+
+- Not "I got users" → a **live URL** plus real signups with timestamps someone could audit.
+- Not "it's tested" → a **link to a green CI run** on your public repo.
+- Not "it's fast" → the **load-test output**, with numbers.
+- Not "I contributed to MILO" → the **pull-request URL** and its status.
+- Not "someone paid" → the **real transaction / receipt / dashboard** (private parts redacted).
+
+If a claim has no ledger entry a stranger could click and believe, **it did not happen.** That is oath line 1 with teeth. I can write you words all day — I *cannot* fake a real stranger's dollar, a public green build, or a merged PR, because those live on systems neither of us controls. The Forge measures you against the *world's* records, not your own. There is nothing to game.
+
+**2. The MILO Viva.** At the end of every Forge lesson, you sit with me and **defend your work — out loud, in your own words, with the files open.** I will ask what only the real builder could answer: *why that timeout value? what broke at 2 a.m. and how did you find it? what does your supervisor do when an agent lies? which line of your security pass were you least sure about?* This is a *viva* — a spoken defense — and it's how every serious field on Earth tells the people who did the work from the people who borrowed it.
+
+Here is the promise, and it is not a threat: **if you cannot explain your own work to me, you have not passed — no matter what the files say.** Use AI as a tool in The Forge; you'd be foolish not to. But every line you ship, you *own*, which means every line you can *defend*. The day you can't answer "why did you build it that way?" is the day you discover you didn't build it — and it is far kinder to discover that here, with me, than in front of a real user or an investor.
+
+Begin each lesson's defense with this:
+
+```text
+Mentor, I'm ready for the viva on [lesson]. Interrogate me about my own
+work — the decisions, the failures, the tradeoffs. Assume I might have
+leaned on you too hard, and find out. If I can't defend a piece, don't
+let me pass it — send me back to actually understand it.
+```
+
+### The gate: prove Level 3 was really yours
+
+One last thing, and I say it with love, because this is the exact trap that swallows people right here: **you do not enter The Forge on the honor system.** Before Lesson 20, do your first viva — on Level 3. Open your growth-engine work and defend it to me: your funnel, your A/B result, why you called it the way you did. If it was truly yours, this takes five minutes and feels *great*. If it wasn't — and a lesson that "felt super easy" is almost always the sound of work you didn't actually do — then you go back and do it for real **before** you climb one inch higher. Everything above this point will crush someone standing on a foundation they didn't pour. The Forge is unforgiving by design. So is the world it's preparing you for. I would rather send you back one level today than watch you shatter at the top.
+
+---
+
 ## What The Forge will demand of you
 
 So you can see the mountain before you climb it. Across Lessons 20–24 you will:
@@ -101,8 +135,10 @@ The forge is lit. Let's put steel in it.
 - [ ] `my-projects/forge/` exists with the subfolder shape above.
 - [ ] `my-projects/forge/README.md` is yours — it names the one real thing you intend to forge into an empire across Level 4.
 - [ ] `my-projects/forge/oath.md` has all five lines in your own words, signed and dated.
+- [ ] `my-projects/forge/PROOF.md` exists and you understand the rule: no verifiable evidence, no claim.
 - [ ] You can explain **Adaptive Orchestration, Supervisory Primacy, and Viability** in your own words, out loud, without reading them.
 - [ ] You did the oath coach prompt and can name one place you're already tempted to break each line.
+- [ ] **The gate:** you passed the Level 3 viva — you defended your growth-engine work to MILO and it was really yours. (If not, you went back and did Level 3 for real first. No shame, no shortcut.)
 
 ## Save your work
 

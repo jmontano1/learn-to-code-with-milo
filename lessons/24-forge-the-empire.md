@@ -161,6 +161,9 @@ Now go do the last, greatest thing an Architect ever does.
 - [ ] `demo.md` links a **public live/recorded demo** of the real product.
 - [ ] `interviews.md` has **≥3 real user interviews** with real quotes, including the one that stung.
 - [ ] `case-study.md` is **published** and tells the whole truth — target vs. reality, the humans, all three laws in the wild, and what's next.
+- [ ] **Ledger:** every capstone claim — live URL, demo link, real-traction evidence (payment/returning-users/stars), the interview record — is logged in `forge/PROOF.md` with links a stranger could open.
+- [ ] **The final viva:** you defended the whole empire to MILO — *every architecture decision, every number, every failure* — and there was no piece you couldn't explain in your own words. This is the last and hardest defense of the course. Pass it and you have proven it was all yours.
+- [ ] **The harder bar:** you defended your empire to a **real human skeptic** too — a friend, a peer, a stranger from an interview — who tried to poke holes, and you answered them live. An Architect can defend their work to a person, not just to their mentor.
 
 ## Save your work
 

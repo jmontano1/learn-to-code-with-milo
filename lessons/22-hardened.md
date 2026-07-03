@@ -153,6 +153,9 @@ Skilled *and* trustworthy under pressure. That's rare. That's you now.
 - [ ] `load.md` has an SLO, a load test to the breaking point, and **one optimization with before/after numbers**.
 - [ ] `ethics.md` names a dark pattern you could've shipped, refuses it in writing, and ships the honest version.
 - [ ] `retro.md` is filled, including whether the pre-mortem called it.
+- [ ] **Ledger:** a **link to a green CI run**, the red-X-then-fixed proof, and your load-test numbers are logged in `forge/PROOF.md`.
+- [ ] **Viva:** you defended the hardening to MILO in your own words — *which test guards what, which security line worried you most, where the bottleneck was and why your fix worked* — and passed.
+- [ ] **The harder bar:** you let MILO play attacker against your live system — *"find the door I left open, the input that breaks it, the way to run up my costs"* — and either it found nothing, or you fixed what it found and logged the fix.
 
 ## Save your work
 

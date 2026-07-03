@@ -154,6 +154,9 @@ You don't just use AI now. You *command* it, safely, at scale.
 - [ ] `reins.md` shows **visibility, a stop, hard limits, and a human gate** — where each lives in code and how you tested it.
 - [ ] `chaos.md` proves the swarm **stays under command and fails safe** when a worker dies, lies, and runs wild.
 - [ ] `retro.md` is filled, including the scariest moment and whether the pre-mortem called it.
+- [ ] **Ledger:** the public repo link, a saved real run, and the chaos-test evidence are logged in `forge/PROOF.md`.
+- [ ] **Viva:** you defended the swarm to MILO in your own words — *what the supervisor does when an agent lies, where each rein lives in your code, how your cost cap actually stops a runaway* — and passed.
+- [ ] **The harder bar:** you let MILO play adversary — *"try to make my swarm run away, burn my budget, or act without the human gate"* — and it **could not.** If it found a hole, you closed it and re-ran.
 
 ## Save your work
 

@@ -166,6 +166,9 @@ Most developers, even paid ones, go years without shipping something a true stra
 - [ ] `real-users.md` lists **provable real strangers** who completed the core action, with your honest method for knowing each is real (no friends, no you, no fakes).
 - [ ] `distribution.md` logs every channel you tried, wins and misses.
 - [ ] `retro.md` fills every row and answers whether the pre-mortem called it.
+- [ ] **Ledger:** your **live URL** and the real-stranger evidence (timestamps, distinct accounts) are logged in `forge/PROOF.md` — links a stranger could open and believe.
+- [ ] **Viva:** you defended this build to MILO in your own words — *why this database, why this sign-in, what broke in production and how you found it* — and passed. If you couldn't explain a piece, you went back and learned it.
+- [ ] **The harder bar:** at least one stranger did more than a one-off tap — they came back, replied, or gave unprompted feedback. A single fluke click is not first blood; a stranger who *returned* is.
 
 ## Save your work
 

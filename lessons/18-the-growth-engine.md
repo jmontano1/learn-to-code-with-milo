@@ -237,6 +237,7 @@ Almost everyone using AI for marketing right now is generating at full speed and
 - [ ] Your funnel **counted itself** — every reported number came from an instrument, not your gut, with no double-counting and no counting yourself.
 - [ ] `experiment-round2.md` is **demonstrably caused by** Round 1's result, and `engine.md` answers "did it turn?" with honesty about sample size.
 - [ ] `retro.md` fills every row, and you answered the final "better, or just bigger?" question with your own numbers as evidence.
+- [ ] **Prove it's really yours:** you can defend this work to MILO out loud — *why you called Round 1 the way you did, which AI outputs you killed and why, what the humans actually did* — in your own words, with the files open. If you can't explain a decision, you didn't really make it. (Ask: `"Mentor, quiz me on my growth engine — assume I leaned on AI too hard, and find out."`) This is also your entry ticket to Level 4.
 
 ## Save your work
 

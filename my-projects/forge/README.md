@@ -17,6 +17,7 @@ Every room in this forge is judged against the three ideas at the heart of MILO:
 | Folder | Lesson | What you forge here |
 | --- | --- | --- |
 | `oath.md` | [19](../../lessons/19-the-forge-lights.md) | Your signed oath. The line you won't cross. |
+| `PROOF.md` | [19](../../lessons/19-the-forge-lights.md) | The proof ledger. Every claim, with a link a stranger could verify. No proof, no pass. |
 | `01-first-blood/` | [20](../../lessons/20-first-blood.md) | A real product in production that real strangers trust. |
 | `02-swarm/` | [21](../../lessons/21-the-swarm.md) | A multi-agent swarm that obeys — orchestration under command. |
 | `03-hardened/` | [22](../../lessons/22-hardened.md) | Tests, CI/CD, security, and load. The system that survives the storm. |
