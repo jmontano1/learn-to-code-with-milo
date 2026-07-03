@@ -109,7 +109,7 @@ There is no finish line here. This is the stage where you keep going, keep growi
 | A number you chose | You set one metric, a target, and a deadline *before* launching — and then counted the real result. |
 | You told the truth | You wrote a retro comparing your target to what really happened, and can say why. |
 
-The last milestone has no finish line on purpose. Build a thing, launch it, measure it, improve it, launch again — forever. That loop *is* the work. Run it once for real in `lessons/16-level-3-the-launch-track.md`, then keep running it.
+The last milestone has no finish line on purpose. Build a thing, launch it, measure it, improve it, launch again — forever. That loop *is* the work. You run it once for real in `lessons/17-deploy-a-marketing-campaign.md`, then turn it into a measured, AI-powered growth engine in `lessons/18-the-growth-engine.md` — and after that, you just keep running it.
 
 ---
 

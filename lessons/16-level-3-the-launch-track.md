@@ -40,11 +40,11 @@ That loop is not marketing fluff. It is the same discipline as your capstone —
 
 ---
 
-## One lesson. One launch. For real.
+## Two lessons. First a launch, then an engine.
 
-Level 3 is a single lesson, because it is a single serious project: **[lessons/17-deploy-a-marketing-campaign.md](17-deploy-a-marketing-campaign.md)**.
+Level 3 is two serious projects, each harder than the last.
 
-In it you will:
+**First, the launch: [lessons/17-deploy-a-marketing-campaign.md](17-deploy-a-marketing-campaign.md).** In it you will:
 
 - Pick one real thing to promote and **one real person** to promote it to.
 - Choose **one number** you will try to move, with a target and a deadline.
@@ -52,7 +52,9 @@ In it you will:
 - Write a real campaign — a headline, a message, posts, an email — under tight constraints.
 - Launch it, **count the result**, and write an honest retro.
 
-It is harder than the capstone. It is meant to be. You will feel, at least once, like you have no idea whether any of it will work. Good. That feeling — shipping anyway, then measuring instead of guessing — is the entire point.
+**Then, the engine: [lessons/18-the-growth-engine.md](18-the-growth-engine.md).** Once you've launched *once*, you build the machine that launches, tests, and improves *itself* — advanced AI marketing. You'll use AI to generate at speed, then run a **pre-registered A/B experiment**, count an honest funnel, and prove with real math whether the engine turned. It is the hardest lesson in the repo, on purpose.
+
+Each is harder than the capstone. You will feel, at least once, like you have no idea whether any of it will work. Good. That feeling — shipping anyway, then measuring instead of guessing — is the entire point.
 
 ---
 

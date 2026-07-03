@@ -213,4 +213,6 @@ Commit and push everything with a message that states the launch, like `Level 3:
 
 ## What happens after this
 
-There is no Lesson 18. From here, the loop is yours: build a thing, launch it, measure it, improve it, launch again. That is not a lesson anymore — it's the work. Open [roadmap.md](../roadmap.md), read **Stage 4** one more time, and notice that its last milestone has no finish line on purpose. Keep launching. Then teach someone else to, the way this repo taught you. 🚀
+You launched once. Next you build the machine that launches, tests, and improves *itself*. **[Lesson 18 — The Growth Engine](18-the-growth-engine.md)** is advanced AI marketing: use AI to generate at speed, then run a pre-registered A/B experiment, count an honest funnel, and prove with real math whether the engine actually turned — or whether you just got busy. It is harder than this lesson, which is why it comes after it. Open it when your campaign here has run and you've written your retro.
+
+After that, the loop is yours: build a thing, launch it, grow it as a measured engine, repeat. Open [roadmap.md](../roadmap.md), read **Stage 4** one more time, and notice that its last milestone has no finish line on purpose. Keep launching. Then teach someone else to, the way this repo taught you. 🚀

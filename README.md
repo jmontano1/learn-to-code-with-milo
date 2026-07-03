@@ -51,6 +51,7 @@ Level 2 made you a builder. Level 3 makes you dangerous. The hardest truth in so
 
 - [lessons/16-level-3-the-launch-track.md](lessons/16-level-3-the-launch-track.md) — The new deal: building is speaking, launching is being heard.
 - [lessons/17-deploy-a-marketing-campaign.md](lessons/17-deploy-a-marketing-campaign.md) — The big one: run a real, measured marketing campaign end to end — audience of one, a live page, a number, a launch, an honest retro.
+- [lessons/18-the-growth-engine.md](lessons/18-the-growth-engine.md) — The hardest one: advanced AI marketing. Turn a single launch into a measured growth engine — use AI to generate at speed, run a pre-registered A/B experiment, count an honest funnel, and prove whether the engine actually turned.
 
 ## Three golden rules of learning
 
