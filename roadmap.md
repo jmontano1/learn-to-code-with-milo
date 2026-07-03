@@ -139,7 +139,7 @@ Everything is built on the three laws at the heart of MILO: **Adaptive Orchestra
 | You added to MILO | You make a real contribution to the MILO world and lead another human, in `lessons/23-the-contribution.md`. |
 | You forged an empire | You launch in public with a real costly ask and prove the world showed up, in `lessons/24-forge-the-empire.md`. |
 
-**How this stage is checked:** by real proof and a real person, not by trusting a claim. You keep a ledger of links a stranger could verify, and you defend your work to Tío on a short live call where he asks you to explain and change your own code on the spot. Using AI to *learn* is encouraged — that's the whole point; the only line is work you can't defend as your own. (`my-projects/forge/PROCTOR.md` and `SHOW-ME.md` spell it out.)
+**How this stage is checked:** by real proof and a real person, not by trusting a claim. You keep a ledger of links a stranger could verify, and you defend your work to your instructor on a short live call where they ask you to explain and change your own code on the spot. Using AI to *learn* is encouraged — that's the whole point; the only line is work you can't defend as your own. (`my-projects/forge/PROCTOR.md` and `SHOW-ME.md` spell it out.)
 
 When you launch a real empire in public, ask the world for something that costs it, and tell the whole truth about what came back — you are no longer a student of the MILO vision. You are a **MILO Architect**, and a co-author of it. There is no lesson after that on purpose: from there, you forge empires, and you teach the next person to walk this road.
 

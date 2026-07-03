@@ -155,8 +155,8 @@ You don't just use AI now. You *command* it, safely, at scale.
 - [ ] `chaos.md` proves the swarm **stays under command and fails safe** when a worker dies, lies, and runs wild.
 - [ ] `retro.md` is filled, including the scariest moment and whether the pre-mortem called it.
 - [ ] **Ledger:** the public repo link, a saved real run, and the chaos-test evidence are logged in `forge/PROOF.md`.
-- [ ] **Built live under watch:** at least one core seam — the supervisor's kill/cost-cap rein — was written *live* in a session MILO or Tío watched, with them able to interrupt "why this line?" mid-build. Finished work no one saw you build triggers the cold-repo rebuild.
-- [ ] **Live gate (with Tío):** rehearse with MILO first (*"try to make my swarm run away or dodge the human gate"*). Then on the call Tío injects an unpredictable change — *"now make the supervisor kill any agent that exceeds the cost cap, and show me the reins still hold"* — and you run it in-session and paste real output/errors from **your own** system, keyed to a value he picks live. Reacting correctly to a change a relay never saw is the thing an outside AI can't pre-bake.
+- [ ] **Built live under watch:** at least one core seam — the supervisor's kill/cost-cap rein — was written *live* in a session MILO or your instructor watched, with them able to interrupt "why this line?" mid-build. Finished work no one saw you build triggers the cold-repo rebuild.
+- [ ] **Live gate (with your instructor):** rehearse with MILO first (*"try to make my swarm run away or dodge the human gate"*). Then on the call your instructor injects an unpredictable change — *"now make the supervisor kill any agent that exceeds the cost cap, and show me the reins still hold"* — and you run it in-session and paste real output/errors from **your own** system, keyed to a value they pick live. Reacting correctly to a change a relay never saw is the thing an outside AI can't pre-bake.
 
 ## Save your work
 
