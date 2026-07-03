@@ -47,11 +47,22 @@ The lessons above (00–07) are Level 1: the ladder. When you finish it — page
 
 ## Level 3 — The Launch Track 🚀
 
-Level 2 made you a builder. Level 3 makes you dangerous. The hardest truth in software: a great thing nobody has heard of loses to a mediocre thing everybody has. So now you learn the half nobody teaches — putting your work **live on the real internet**, getting **real people** to do one specific thing, and picking **one number** you chase in public and tell the truth about. It's the hardest work in this repo, on purpose.
+Level 2 made you a builder. Level 3 makes you dangerous. The hardest truth in software: a great thing nobody has heard of loses to a mediocre thing everybody has. So now you learn the half nobody teaches — putting your work **live on the real internet**, getting **real people** to do one specific thing, and picking **one number** you chase in public and tell the truth about. It's brutal work, on purpose — and it's still only the warm-up for Level 4.
 
 - [lessons/16-level-3-the-launch-track.md](lessons/16-level-3-the-launch-track.md) — The new deal: building is speaking, launching is being heard.
 - [lessons/17-deploy-a-marketing-campaign.md](lessons/17-deploy-a-marketing-campaign.md) — The big one: run a real, measured marketing campaign end to end — audience of one, a live page, a number, a launch, an honest retro.
-- [lessons/18-the-growth-engine.md](lessons/18-the-growth-engine.md) — The hardest one: advanced AI marketing. Turn a single launch into a measured growth engine — use AI to generate at speed, run a pre-registered A/B experiment, count an honest funnel, and prove whether the engine actually turned.
+- [lessons/18-the-growth-engine.md](lessons/18-the-growth-engine.md) — Advanced AI marketing: turn a single launch into a measured growth engine — use AI to generate at speed, run a pre-registered A/B experiment, count an honest funnel, and prove whether the engine actually turned.
+
+## Level 4 — The Forge 🔥
+
+This is the final transformation, and it is not for everyone. Level 4 takes the capable builder you've become and forges them into a **MILO Architect** — someone who can turn nothing but an idea into a real, production-grade empire that strangers pay for, that survives load and attack, and that has their name on it. MILO stops being a friendly coach and becomes a **kind-but-ruthless Master Mentor** who drops hard truths and celebrates only proven impact. Every challenge is production-grade and real: real users, real money, real stakes. It is by far the hardest work in this repo. That is the entire point.
+
+- [lessons/19-the-forge-lights.md](lessons/19-the-forge-lights.md) — The forge lights: the three laws (adaptive orchestration, supervisory primacy, viability) and the oath.
+- [lessons/20-first-blood.md](lessons/20-first-blood.md) — First blood: ship a real product to production and earn the trust of real strangers.
+- [lessons/21-the-swarm.md](lessons/21-the-swarm.md) — The swarm: command a multi-agent system that adapts, obeys, and can never run away.
+- [lessons/22-hardened.md](lessons/22-hardened.md) — Hardened: tests, CI/CD, a security pass, and a load test — the system that survives the storm.
+- [lessons/23-the-contribution.md](lessons/23-the-contribution.md) — The contribution: extend MILO itself, lead other humans, and publish a case study.
+- [lessons/24-forge-the-empire.md](lessons/24-forge-the-empire.md) — The capstone: launch a real empire in public, with a real ask, and prove the world showed up.
 
 ## Three golden rules of learning
 

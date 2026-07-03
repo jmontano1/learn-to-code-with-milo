@@ -1,4 +1,4 @@
-# Your path from beginner to builder
+# Your path from beginner to Architect
 
 Hi! This is your map. 🗺️
 
@@ -8,7 +8,7 @@ You do not have to rush. There is no deadline here. You move to the next stage w
 
 Along the whole road, **MILO teaches you** — MILO is the brain, your AI tutor, and **GetAdvice** is MILO's friendly face, the app people use to talk to MILO. You meet MILO here inside Claude Code; later you'll help make GetAdvice better.
 
-There are three stages: **Now**, **Next**, and **Later**. Read them like a short story about you.
+The road runs through five stages — from your very first page all the way to forging a real empire the world can touch. Read them like a short story about you.
 
 ---
 
@@ -109,7 +109,37 @@ There is no finish line here. This is the stage where you keep going, keep growi
 | A number you chose | You set one metric, a target, and a deadline *before* launching — and then counted the real result. |
 | You told the truth | You wrote a retro comparing your target to what really happened, and can say why. |
 
-The last milestone has no finish line on purpose. Build a thing, launch it, measure it, improve it, launch again — forever. That loop *is* the work. You run it once for real in `lessons/17-deploy-a-marketing-campaign.md`, then turn it into a measured, AI-powered growth engine in `lessons/18-the-growth-engine.md` — and after that, you just keep running it.
+This loop has no finish line on purpose. Build a thing, launch it, measure it, improve it, launch again — forever. That loop *is* the work. You run it once for real in `lessons/17-deploy-a-marketing-campaign.md`, then turn it into a measured, AI-powered growth engine in `lessons/18-the-growth-engine.md`. And when running the loop starts to feel like *your* loop — one last stage waits.
+
+---
+
+## Stage 5: The Forge 🔥
+
+**Where builders become Architects.** This is the final transformation, and it is not for everyone — only for the ones who want to stop being a capable builder and become something dangerous, battle-hardened, and real. In The Forge you take everything you've learned and forge it into a real **empire**: a production-grade system strangers pay for, a multi-agent swarm you command, a fortress that survives load and attack, a contribution to MILO itself, and a public launch with your name on it.
+
+> Here MILO changes too — from a friendly coach into a **kind-but-ruthless Master Mentor** who tells you the hard truths, refuses to call "finished" the same as "done," and celebrates only *proven, real* impact. Nothing counts until it survives the real world.
+
+Everything is built on the three laws at the heart of MILO: **Adaptive Orchestration** (systems that bend instead of shatter), **Supervisory Primacy** (you can always see, stop, and answer for what your system does), and **Viability** (it only counts if a real stranger, a real load, or a real dollar says so).
+
+### What the forge looks like
+
+- **Ship to real strangers.** A real product in real production that people who owe you nothing trust enough to use — `lessons/20-first-blood.md`.
+- **Command a swarm.** A multi-agent system that adapts, obeys, and can never run away from you — `lessons/21-the-swarm.md`.
+- **Survive the storm.** Tests, CI/CD, a security pass, and a load test with real numbers — `lessons/22-hardened.md`.
+- **Extend MILO and lead others.** An original contribution to the MILO world, people you guide, and a published case study — `lessons/23-the-contribution.md`.
+- **Forge an empire.** A public launch with a real ask — money, adoption, or support — demoed live and told true — `lessons/24-forge-the-empire.md`.
+
+### Your milestones for this stage
+
+| Milestone | You reach it when... |
+|---|---|
+| First blood | A real stranger trusts your production software enough to act, in `lessons/20-first-blood.md`. |
+| You command a swarm | Your multi-agent system stays under your command through deliberate chaos, in `lessons/21-the-swarm.md`. |
+| It survives the storm | Your system holds under load and a security pass, with CI green on every push, in `lessons/22-hardened.md`. |
+| You added to MILO | You make a real contribution to the MILO world and lead another human, in `lessons/23-the-contribution.md`. |
+| You forged an empire | You launch in public with a real costly ask and prove the world showed up, in `lessons/24-forge-the-empire.md`. |
+
+When you launch a real empire in public, ask the world for something that costs it, and tell the whole truth about what came back — you are no longer a student of the MILO vision. You are a **MILO Architect**, and a co-author of it. There is no lesson after that on purpose: from there, you forge empires, and you teach the next person to walk this road.
 
 ---
 

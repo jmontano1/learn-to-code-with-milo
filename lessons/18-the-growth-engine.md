@@ -244,6 +244,8 @@ Commit and push everything with a message that states what you learned, like `Le
 
 ## What happens after this
 
-There is no Lesson 19 waiting — because from here the loop needs no lesson. You now own the full arc: **build it (Level 2) → launch it (Lesson 17) → grow it as a measured, AI-powered engine (Lesson 18).** That is the entire game, and you've run one full turn of it with your own hands and your own honesty.
+You now own the full arc: **build it (Level 2) → launch it (Lesson 17) → grow it as a measured, AI-powered engine (Lesson 18).** You've run one full turn of the loop with your own hands and your own honesty. Most people who can code never get this far.
 
-Open [roadmap.md](../roadmap.md), read **Stage 4** again, and notice its last milestone still has no finish line. That was always the point. Keep the engine running — build, launch, measure, sharpen, repeat — and when you're ready, teach someone else to run theirs, the way this repo taught you. The rarest skill in the age of AI is not making more. It's knowing what's true. You have it now. Go use it. 🚀
+But there is one level left, and it is not for everyone — only for the ones who want to stop being a capable builder and become something dangerous. **[Level 4 — The Forge](19-the-forge-lights.md)** takes everything you've learned and forges it into a real, production-grade empire: a product real strangers pay for, a multi-agent swarm you command, a system hardened against a storm, a contribution to MILO itself, and a public launch with your name on it. It is by far the hardest thing this repo contains. It is meant to be.
+
+If you're ready to be forged, open **[lessons/19-the-forge-lights.md](19-the-forge-lights.md)**. If you need to run the loop a few more times first, do that — the forge will be lit when you arrive. The rarest skill in the age of AI is not making more. It's knowing what's true. You have it now. Go use it. 🚀
