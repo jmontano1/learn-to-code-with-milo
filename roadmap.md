@@ -87,6 +87,32 @@ There is no finish line here. This is the stage where you keep going, keep growi
 
 ---
 
+## Stage 4: Ship it to the world 🌍
+
+**Where builders become dangerous.** You can build things now, and you can fix real things. Stage 4 is the half nobody teaches: getting real people to *care*. A great app nobody has heard of loses to a mediocre one everybody has — every time. The difference is not code. It is that someone launched, on purpose, and measured whether the world listened.
+
+> **Launching** is the opposite of building. Building is speaking. Launching is being heard. You put your work on the public internet, ask real people to do one specific thing, and count what actually happens.
+
+### What shipping looks like
+
+- **Pick who it's for — one real person.** Not "everyone." Marketing's first law: write for everyone and you move no one. You choose a single human you can picture completely, and everything is built for them.
+- **Put something live on the real internet.** Not a file on your laptop — a real page at a real URL a stranger can open on their phone. This is a brand-new, scary, real skill, and you learn it in `lessons/17-deploy-a-marketing-campaign.md`.
+- **Pick one number, then chase it in public.** You decide *before you launch* what you're trying to move — clicks, signups, replies — with a target and a deadline. Then you find out, honestly, whether you hit it. There is nowhere to hide behind "it's basically done."
+- **Tell the truth about the result.** Hit or miss, you write an honest retro. A miss you understand teaches more than a win you can't explain.
+
+### Your milestones for this stage
+
+| Milestone | You reach it when... |
+|---|---|
+| An audience of one | You can name the single real person your launch is for, in `lessons/17-deploy-a-marketing-campaign.md`. |
+| Live on the internet | You publish a page at a real public URL a stranger can open on a phone. |
+| A number you chose | You set one metric, a target, and a deadline *before* launching — and then counted the real result. |
+| You told the truth | You wrote a retro comparing your target to what really happened, and can say why. |
+
+The last milestone has no finish line on purpose. Build a thing, launch it, measure it, improve it, launch again — forever. That loop *is* the work. Run it once for real in `lessons/16-level-3-the-launch-track.md`, then keep running it.
+
+---
+
 ## A gentle reminder
 
 Stages are not a race. Some days you fly. Some days one small thing takes the whole session. Both are normal. Both are progress.

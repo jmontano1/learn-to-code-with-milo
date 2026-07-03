@@ -45,6 +45,13 @@ The lessons above (00–07) are Level 1: the ladder. When you finish it — page
 - [lessons/14-reading-strangers-code.md](lessons/14-reading-strangers-code.md) — Open code you did not write and figure out what it does.
 - [lessons/15-capstone-fix-something-real.md](lessons/15-capstone-fix-something-real.md) — The capstone: turn your own GetAdvice feedback into a real fix proposal.
 
+## Level 3 — The Launch Track 🚀
+
+Level 2 made you a builder. Level 3 makes you dangerous. The hardest truth in software: a great thing nobody has heard of loses to a mediocre thing everybody has. So now you learn the half nobody teaches — putting your work **live on the real internet**, getting **real people** to do one specific thing, and picking **one number** you chase in public and tell the truth about. It's the hardest work in this repo, on purpose.
+
+- [lessons/16-level-3-the-launch-track.md](lessons/16-level-3-the-launch-track.md) — The new deal: building is speaking, launching is being heard.
+- [lessons/17-deploy-a-marketing-campaign.md](lessons/17-deploy-a-marketing-campaign.md) — The big one: run a real, measured marketing campaign end to end — audience of one, a live page, a number, a launch, an honest retro.
+
 ## Three golden rules of learning
 
 1. **Mistakes are part of the game.** Every coder, even the best ones, breaks things all day long. A mistake is not failure. It is just the next clue.

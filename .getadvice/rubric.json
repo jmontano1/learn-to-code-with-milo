@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "$comment": "GetAdvice student-mode rubric, consumed by the getadvice-cloudflare Worker's compute pipeline. Progress is computed ONLY from evidence in the student's own repo (plus feedback notes in this repo), attributed by immutable GitHub numeric user id — never author name. Milestones derive from roadmap.md's stage tables. Evidence vocabulary (worker-defined): file_glob{glob,min_matches} — files matching glob exist in the student repo tree; content_regex{glob,pattern,flags,min_matches} — a matching file's content tests true (first 5 matching files fetched); min_commits{min_commits,distinct_days} — commits authored by the student's numeric id, optionally across N distinct UTC days; feedback_notes{path,min_matches} — files under this repo's feedback-getadvice/notes/; manual — mentor flips it in the roster (reported as pending_mentor until then). Evidence may be an array (all must pass).",
   "stages": [
     {
@@ -79,6 +79,37 @@
           "id": "capstone",
           "title": "Fix something real",
           "lesson": "lessons/15-capstone-fix-something-real.md",
+          "evidence": { "type": "manual" }
+        }
+      ]
+    },
+    {
+      "id": "stage-4",
+      "name": "Ship it to the world",
+      "emoji": "🌍",
+      "milestones": [
+        {
+          "id": "audience-of-one",
+          "title": "An audience of one",
+          "lesson": "lessons/17-deploy-a-marketing-campaign.md",
+          "evidence": { "type": "file_glob", "glob": "**/launch/campaign-plan.md", "min_matches": 1 }
+        },
+        {
+          "id": "live-on-internet",
+          "title": "Live on the internet",
+          "lesson": "lessons/17-deploy-a-marketing-campaign.md",
+          "evidence": { "type": "file_glob", "glob": "**/launch/landing/**/*.html", "min_matches": 1 }
+        },
+        {
+          "id": "a-number-you-chose",
+          "title": "A number you chose",
+          "lesson": "lessons/17-deploy-a-marketing-campaign.md",
+          "evidence": { "type": "content_regex", "glob": "**/launch/campaign-plan.md", "pattern": "(target|deadline|metric)", "flags": "im" }
+        },
+        {
+          "id": "told-the-truth",
+          "title": "You told the truth",
+          "lesson": "lessons/17-deploy-a-marketing-campaign.md",
           "evidence": { "type": "manual" }
         }
       ]

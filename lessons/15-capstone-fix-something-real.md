@@ -130,4 +130,6 @@ Commit everything with a message that states the contribution, like `capstone: r
 
 ## What happens after this
 
-There is no lesson 16 — the next step is not in `lessons/` anymore. Open [roadmap.md](../roadmap.md) and read **Stage 3** again: real polish items on real apps, reading strangers' code (you already started in [lessons/14-reading-strangers-code.md](14-reading-strangers-code.md)), scaling up when your building demands it. You just did Stage 3 work for the first time. Now keep doing it.
+You finished the Builder's Track. You can build, and you can fix real things. But building is only half the game — the other half is getting real people to *care* about what you built.
+
+That is **Level 3: The Launch Track**, and it starts now: **[lessons/16-level-3-the-launch-track.md](16-level-3-the-launch-track.md)**. It is the hardest thing in this repo — you'll put a real page live on the internet, run a real campaign, and measure whether real humans showed up. Read [roadmap.md](../roadmap.md)'s new **Stage 4** for the map, then open Lesson 16 when you're ready to be heard.
