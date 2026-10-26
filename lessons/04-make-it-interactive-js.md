@@ -1,5 +1,6 @@
 ---
 title: "04 — Make It Do Something"
+description: "Add JavaScript so a button on your page reacts when someone clicks."
 parent: Level 1
 nav_order: 4
 ---

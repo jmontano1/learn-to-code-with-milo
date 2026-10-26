@@ -2,10 +2,10 @@
 # Theme: Just the Docs, loaded with remote_theme so GitHub Pages can build it
 # with no custom Actions workflow.
 
-title: Learn to code with MILO
+title: Learn to Code with MILO
 description: >-
-  A beginner coding course guided by MILO (Modular Intelligent Learning
-  Orchestrator). Twenty-five lessons across four levels.
+  Learn to Code with MILO (Modular Intelligent Learning Orchestrator), a free
+  25-lesson course by JM Automated.
 url: "https://milo-usa.com"
 baseurl: ""
 lang: en-US
@@ -24,6 +24,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-relative-links
 
 relative_links:

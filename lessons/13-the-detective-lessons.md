@@ -1,5 +1,6 @@
 ---
 title: "13 — The Detective Lessons"
+description: "Treat errors and bug reports as clues, and practice finding the cause on purpose."
 parent: Level 2
 nav_order: 13
 ---

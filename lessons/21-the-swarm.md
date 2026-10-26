@@ -1,5 +1,6 @@
 ---
 title: "21 — The Swarm"
+description: "Command a group of AI agents that adapts, stays under your supervision, and fails safely."
 parent: Level 4
 nav_order: 21
 ---

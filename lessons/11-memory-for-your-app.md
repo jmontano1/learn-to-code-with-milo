@@ -1,5 +1,6 @@
 ---
 title: "11 — Memory for Your App"
+description: "Teach Study Buddy to remember a score between visits with localStorage and JSON."
 parent: Level 2
 nav_order: 11
 ---

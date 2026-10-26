@@ -1,5 +1,6 @@
 ---
 title: "06 — Saving Work with Git"
+description: "Save your project with git so it has a history and a safe copy on GitHub."
 parent: Level 1
 nav_order: 6
 ---

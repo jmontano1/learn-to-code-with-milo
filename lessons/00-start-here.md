@@ -1,5 +1,6 @@
 ---
 title: "00 — Start Here"
+description: "Meet MILO and learn what programming, Claude Code, and a repository are before you write any code."
 parent: Level 1
 nav_order: 0
 ---

@@ -1,5 +1,6 @@
 ---
 title: "19 — The Forge Lights"
+description: "The Forge opens: the three MILO laws, the mentor deal, and the oath before any of the work counts."
 parent: Level 4
 nav_order: 19
 ---

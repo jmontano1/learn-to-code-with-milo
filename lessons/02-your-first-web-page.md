@@ -1,5 +1,6 @@
 ---
 title: "02 — Your First Web Page"
+description: "Build your first real web page in HTML and open it in a browser."
 parent: Level 1
 nav_order: 2
 ---

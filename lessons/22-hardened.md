@@ -1,5 +1,6 @@
 ---
 title: "22 — Hardened"
+description: "Add tests, automated checks, a security pass, and a load test, and refuse a dark pattern."
 parent: Level 4
 nav_order: 22
 ---

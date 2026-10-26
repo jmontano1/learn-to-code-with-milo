@@ -1,5 +1,6 @@
 ---
 title: "08 — The Builder's Track"
+description: "Level 2 starts here: you get a goal instead of a recipe, and MILO coaches while you write the code."
 parent: Level 2
 nav_order: 8
 ---

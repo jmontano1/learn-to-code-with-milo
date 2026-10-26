@@ -1,5 +1,6 @@
 ---
 title: "10 — Logic That Thinks"
+description: "Give the quiz real logic so it can tell right from wrong and keep score."
 parent: Level 2
 nav_order: 10
 ---

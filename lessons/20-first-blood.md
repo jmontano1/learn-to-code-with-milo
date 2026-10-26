@@ -1,5 +1,6 @@
 ---
 title: "20 — First Blood"
+description: "Ship a real product to production and earn the trust of real strangers."
 parent: Level 4
 nav_order: 20
 ---

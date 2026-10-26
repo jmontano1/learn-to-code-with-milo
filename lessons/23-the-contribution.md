@@ -1,5 +1,6 @@
 ---
 title: "23 — The Contribution"
+description: "Contribute something real to MILO, lead another person, and publish an honest case study."
 parent: Level 4
 nav_order: 23
 ---
