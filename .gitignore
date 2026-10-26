@@ -38,3 +38,10 @@ dist/
 coverage/
 __pycache__/
 .venv/
+
+# Jekyll / GitHub Pages build output and local gems. Not part of the course.
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/

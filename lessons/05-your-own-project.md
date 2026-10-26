@@ -1,3 +1,8 @@
+---
+title: "05 — Your Own Project"
+parent: Level 1
+nav_order: 5
+---
 # Lesson 05 — Build Your Own Project
 
 This is a big one. Up to now you followed the lessons step by step. Now **you're the boss.**

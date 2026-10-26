@@ -1,3 +1,8 @@
+---
+title: "19 — The Forge Lights"
+parent: Level 4
+nav_order: 19
+---
 # Lesson 19 — Level 4: The Forge Lights
 
 Read this slowly. Everything before this was practice. This is not.

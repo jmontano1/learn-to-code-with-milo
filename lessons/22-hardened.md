@@ -1,3 +1,8 @@
+---
+title: "22 — Hardened"
+parent: Level 4
+nav_order: 22
+---
 # Lesson 22 — Hardened: Survive the Storm
 
 Your product works. Your swarm obeys. In calm weather. This lesson drags both into a storm and finds out what survives — because **Viability** is not "it works when I'm careful." It's "it holds when a thousand strangers, one attacker, and one broken deploy all arrive on the same Tuesday."

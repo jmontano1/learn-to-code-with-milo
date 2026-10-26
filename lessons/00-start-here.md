@@ -1,3 +1,8 @@
+---
+title: "00 — Start Here"
+parent: Level 1
+nav_order: 0
+---
 # Lesson 00 — Start Here 👋
 
 Welcome! You are about to learn how to build things with code. Take a breath. You do not need to be smart, fast, or "a computer person." You just need to be curious. That is it.

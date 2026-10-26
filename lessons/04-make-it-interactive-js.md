@@ -1,3 +1,8 @@
+---
+title: "04 — Make It Do Something"
+parent: Level 1
+nav_order: 4
+---
 # Lesson 04 — Make It Do Something (JavaScript)
 
 Welcome back! So far your page can hold words (HTML) and look nice (CSS). Now we give it **wiring** — the electricity that makes things happen.

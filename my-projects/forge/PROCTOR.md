@@ -1,3 +1,7 @@
+---
+title: Instructor script
+nav_exclude: true
+---
 # PROCTOR.md — the instructor's script (for the reviewer, not the learner)
 
 Read this once. It is the most important page in Level 4, and it is written for **the instructor** — the person who reviews and passes the learner — not for the learner. Everything else in The Forge is scaffolding. *This* is the gate.

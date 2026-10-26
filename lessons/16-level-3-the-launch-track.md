@@ -1,3 +1,8 @@
+---
+title: "16 — The Launch Track"
+parent: Level 3
+nav_order: 16
+---
 # Lesson 16 — Level 3: The Launch Track
 
 You built Study Buddy. You took a real complaint about a real app and turned it into a repro, a hypothesis, a spec, and a working prototype. You shipped a contribution. That was the whole Builder's Track, and you finished it.

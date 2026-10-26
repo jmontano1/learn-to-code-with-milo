@@ -1,3 +1,8 @@
+---
+title: "24 — Forge the Empire"
+parent: Level 4
+nav_order: 24
+---
 # Lesson 24 — Forge the Empire (The Capstone)
 
 This is the capstone of The Forge, and the hardest thing this level asks of you. Everything — every page you built, every stranger you won, every agent you commanded, every door you closed, every person you led — was forging you for this one act.

@@ -1,0 +1,78 @@
+# Learn to code with MILO — GitHub Pages site.
+# Theme: Just the Docs, loaded with remote_theme so GitHub Pages can build it
+# with no custom Actions workflow.
+
+title: Learn to code with MILO
+description: >-
+  A beginner coding course guided by MILO (Modular Intelligent Learning
+  Orchestrator). Twenty-five lessons across four levels.
+url: "https://milousa.com"
+baseurl: ""
+lang: en-US
+
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+color_scheme: milo
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+nav_enabled: true
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/jmontano1/learn-to-code-with-milo"
+aux_links_new_tab: true
+
+footer_content: >-
+  Copyright (c) 2026 JM Automated.
+  <a href="https://github.com/jmontano1/learn-to-code-with-milo/blob/main/LICENSE">MIT License</a>.
+
+# The README is the home page (permalink: /). Learner scratch that lessons
+# tell people to create under my-projects/ is not part of the published site.
+# The guides lessons actually link to stay, with nav_exclude so the sidebar
+# is only Home, Levels 1–4, and Reference.
+exclude:
+  - vendor
+  - .bundle
+  - .jekyll-cache
+  - .sass-cache
+  - _site
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - my-projects/study-buddy
+  - my-projects/launch
+  - my-projects/growth
+  - my-projects/fix-prototype
+  - my-projects/forge/01-first-blood
+  - my-projects/forge/02-swarm
+  - my-projects/forge/03-hardened
+  - my-projects/forge/04-contribution
+  - my-projects/forge/05-empire
+  - my-projects/forge/PROOF.md
+  - my-projects/forge/oath.md
+  - my-projects/forge/my-goal.mp4
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

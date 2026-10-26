@@ -1,3 +1,8 @@
+---
+title: "03 — Make It Look Good"
+parent: Level 1
+nav_order: 3
+---
 # Lesson 03 — Make It Look Good with CSS
 
 You made a real web page in `lessons/02-your-first-web-page.md`. Nice work. Right now it *works*, but it probably looks a little plain, black text on a white page, like a page torn out of a notebook.

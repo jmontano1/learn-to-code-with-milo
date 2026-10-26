@@ -1,3 +1,8 @@
+---
+title: "01 — How the Web Works"
+parent: Level 1
+nav_order: 1
+---
 # Lesson 01 — How the Web Works 🌐
 
 In the last lesson (`lessons/00-start-here.md`) you toured the repo. Nice work. Now let's understand what a web page actually **is**, before you build one.

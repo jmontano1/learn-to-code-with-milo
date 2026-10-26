@@ -1,3 +1,7 @@
+---
+title: Show-me calls
+nav_exclude: true
+---
 # SHOW-ME.md — the call that makes it real
 
 Here's a thing worth knowing about yourself before you start The Forge: the 🎉 milestone at the bottom of each lesson is a line of text. MILO can print it whether you did the work or not. It feels good for about four seconds, and it proves nothing.

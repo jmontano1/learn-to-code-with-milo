@@ -1,3 +1,7 @@
+---
+title: Your projects folder
+nav_exclude: true
+---
 # Your Projects Live Here 🚀
 
 Welcome to your own corner of this repo. This folder is **yours**.

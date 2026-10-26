@@ -1,3 +1,7 @@
+---
+title: Claude Code note
+nav_exclude: true
+---
 # MILO lives in MILO.md
 
 This project's tutor is **MILO**. The full tutor instructions are in [`MILO.md`](MILO.md).

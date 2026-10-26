@@ -1,3 +1,8 @@
+---
+title: "02 — Your First Web Page"
+parent: Level 1
+nav_order: 2
+---
 # Lesson 02 — Your First Web Page
 
 Welcome back! In the last lesson (`lessons/01-how-the-web-works.md`) you learned what a web page is made of. Now you get to build one. A real one. Your own. 🎉

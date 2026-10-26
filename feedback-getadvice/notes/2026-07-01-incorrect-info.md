@@ -1,3 +1,8 @@
+---
+title: "Example: incorrect info"
+parent: Reference
+nav_order: 8
+---
 # Feedback Note
 
 > **Worked example.** This note ships with the course so you can see a finished report. Read it. Leave it unchanged. Your own notes are new files in this same folder.

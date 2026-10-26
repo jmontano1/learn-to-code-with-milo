@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
 # Learn to code with MILO 🌟
 
 Hi! You are about to learn to code and build things with AI — for the very first time. That feels exciting, a little scary, and completely normal. This repo is your friendly classroom, and **MILO** (Modular Intelligent Learning Orchestrator), an AI tutor, is your guide.
@@ -22,7 +28,7 @@ You can still take the course. Every lesson is a Markdown file, and every prompt
 
 Lessons that need a coding agent — it must see your files, or it must run git — say so in the lesson and point back here.
 
-These pages are Markdown. GitHub shows them as formatted pages. A website host that only serves raw files will show the `#` marks and dashes; publishing to a site needs a Markdown renderer (GitHub Pages, or any static generator that understands GitHub-flavored Markdown, including tables).
+These pages are Markdown. GitHub shows them as formatted pages, and this repo publishes the same pages as a website with the Just the Docs theme: a sidebar grouped by level, lessons in order, and this README as the home page. That site is what [milousa.com](https://milousa.com) will serve once GitHub Pages and DNS point here. Tables and the other formatting need GitHub-flavored Markdown, which that theme provides.
 
 ## The only thing to do right now
 
@@ -108,3 +114,7 @@ This is the final transformation, and it is not for everyone. Level 4 takes the 
 You just met your classroom and learned what a repo is. That is a real first step, and you're already on your way.
 
 Ready for the next one? Paste the starter message above, then open `lessons/00-start-here.md` and MILO will meet you there. 👋
+
+## License
+
+This course is open source under the [MIT License](LICENSE). Copyright (c) 2026 JM Automated.

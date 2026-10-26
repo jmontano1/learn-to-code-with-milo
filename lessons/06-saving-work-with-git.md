@@ -1,3 +1,8 @@
+---
+title: "06 — Saving Work with Git"
+parent: Level 1
+nav_order: 6
+---
 # Lesson 06 — Saving Your Work with Git 💾
 
 Welcome back! In [lessons/05-your-own-project.md](05-your-own-project.md) you built a real thing from your own idea. You added style. You made it do something when you click. That is a lot.

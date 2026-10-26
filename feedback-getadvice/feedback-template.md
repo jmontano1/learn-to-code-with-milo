@@ -1,3 +1,8 @@
+---
+title: Feedback template
+parent: Reference
+nav_order: 6
+---
 # Feedback Note
 
 This is a template. A template is a fill-in-the-blank form, like a birthday card that already has "Happy Birthday" printed and just leaves a space for the name. You do not start from a blank page. You only fill in the blanks.

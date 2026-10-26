@@ -1,3 +1,8 @@
+---
+title: "14 — Reading Strangers' Code"
+parent: Level 2
+nav_order: 14
+---
 # Lesson 14 — Reading Strangers' Code
 
 Until now, every house you walked into was one you built. You knew where every wire ran because you ran it. Today you walk into a house wired by a stranger — and your job is to figure out where the electricity goes **without flipping every switch to see what turns on**.

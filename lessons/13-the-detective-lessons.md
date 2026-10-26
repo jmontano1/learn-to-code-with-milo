@@ -1,3 +1,8 @@
+---
+title: "13 — The Detective Lessons"
+parent: Level 2
+nav_order: 13
+---
 # Lesson 13 — The Detective Lessons
 
 Remember the worked example about GetAdvice freezing (`feedback-getadvice/notes/2026-07-01-app-froze.md`)? It describes what someone did, what they expected, and what actually happened. That was detective work. Today you switch sides: you are the one who *reads* the clues and finds the culprit.

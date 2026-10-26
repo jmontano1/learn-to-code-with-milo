@@ -1,3 +1,8 @@
+---
+title: Setup
+parent: Reference
+nav_order: 3
+---
 # Setup — getting started 🛠️
 
 This is a one-time setup to get you into the classroom.

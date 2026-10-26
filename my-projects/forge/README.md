@@ -1,3 +1,7 @@
+---
+title: The Forge folder
+nav_exclude: true
+---
 # 🔥 The Forge — your Level 4 workspace
 
 This is where you stop building projects and start forging an empire.

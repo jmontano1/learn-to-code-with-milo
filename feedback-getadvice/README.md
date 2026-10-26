@@ -1,3 +1,8 @@
+---
+title: Feedback practice
+parent: Reference
+nav_order: 5
+---
 # Practice feedback on GetAdvice 🔎
 
 **[GetAdvice](https://getadviceapp.com/) is a real public app — MILO's friendly face out in the world.** Your job in this folder is simple: use it, write down what you notice, and then review your own note.

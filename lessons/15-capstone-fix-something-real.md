@@ -1,3 +1,8 @@
+---
+title: "15 — Fix Something Real"
+parent: Level 2
+nav_order: 15
+---
 # Lesson 15 — Capstone: Fix Something Real
 
 This is the capstone of the Builder's Track, and it is different from every lesson before it.

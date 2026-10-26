@@ -1,3 +1,8 @@
+---
+title: "10 — Logic That Thinks"
+parent: Level 2
+nav_order: 10
+---
 # Lesson 10 — Logic That Thinks
 
 Welcome back, builder. In [lessons/09-a-site-with-rooms.md](09-a-site-with-rooms.md) you gave Study Buddy its rooms, and `quiz.html` is one of them — but right now it's a quiz the way an empty stage is a play. The structure is there. Nothing *happens*.

@@ -1,3 +1,8 @@
+---
+title: Glossary
+parent: Reference
+nav_order: 2
+---
 # Words explained simply
 
 Coding has a lot of new words. That can feel like walking into a room where everyone speaks a language you do not know yet.

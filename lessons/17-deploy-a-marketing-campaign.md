@@ -1,3 +1,8 @@
+---
+title: "17 — Deploy a Marketing Campaign"
+parent: Level 3
+nav_order: 17
+---
 # Lesson 17 — Deploy a Marketing Campaign
 
 This is the hardest lesson so far. Read that as a promise, not a warning.

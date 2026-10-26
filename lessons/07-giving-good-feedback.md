@@ -1,3 +1,8 @@
+---
+title: "07 — Giving Good Feedback"
+parent: Level 1
+nav_order: 7
+---
 # Lesson 07 — Giving Good Feedback 🔍
 
 You made it to the end of Level 1's core path. That is a real achievement.

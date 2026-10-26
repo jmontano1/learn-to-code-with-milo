@@ -1,3 +1,8 @@
+---
+title: "08 — The Builder's Track"
+parent: Level 2
+nav_order: 8
+---
 # Lesson 08 — Level 2: The Builder's Track
 
 Stop for a second and look at what you just did.
