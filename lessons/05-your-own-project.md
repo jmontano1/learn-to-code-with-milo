@@ -1,5 +1,6 @@
 ---
 title: "05 — Your Own Project"
+description: "Choose your own idea and build a small project from it, one piece at a time."
 parent: Level 1
 nav_order: 5
 ---

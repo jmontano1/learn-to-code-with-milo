@@ -1,5 +1,6 @@
 ---
 title: "12 — Talking to the Internet"
+description: "Fetch fresh quiz questions from the internet, with a fallback when the network is down."
 parent: Level 2
 nav_order: 12
 ---

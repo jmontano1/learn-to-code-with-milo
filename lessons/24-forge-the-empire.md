@@ -1,5 +1,6 @@
 ---
 title: "24 — Forge the Empire"
+description: "The capstone: launch in public with a real ask, and defend the work with proof."
 parent: Level 4
 nav_order: 24
 ---

@@ -1,5 +1,6 @@
 ---
 title: "18 — The Growth Engine"
+description: "Turn one launch into a measured growth engine with an honest funnel and a pre-registered test."
 parent: Level 3
 nav_order: 18
 ---

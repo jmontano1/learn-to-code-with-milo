@@ -1,5 +1,6 @@
 ---
 title: "09 — A Site With Rooms"
+description: "Start Study Buddy, a quiz app made of pages that share one structure."
 parent: Level 2
 nav_order: 9
 ---

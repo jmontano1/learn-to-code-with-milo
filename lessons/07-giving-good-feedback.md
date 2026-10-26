@@ -1,5 +1,6 @@
 ---
 title: "07 — Giving Good Feedback"
+description: "Write clear feedback on a real app: what you did, what you expected, what happened, and why it matters."
 parent: Level 1
 nav_order: 7
 ---

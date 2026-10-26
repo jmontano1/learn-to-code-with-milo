@@ -1,5 +1,6 @@
 ---
 title: "03 — Make It Look Good"
+description: "Add CSS so your page has color, size, and type instead of plain black text."
 parent: Level 1
 nav_order: 3
 ---

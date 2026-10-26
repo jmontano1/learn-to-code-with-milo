@@ -1,5 +1,6 @@
 ---
 title: "01 — How the Web Works"
+description: "See what a web page is made of: HTML for structure, CSS for style, and JavaScript for behavior."
 parent: Level 1
 nav_order: 1
 ---

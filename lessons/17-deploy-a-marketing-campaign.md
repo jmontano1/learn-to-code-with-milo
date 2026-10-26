@@ -1,5 +1,6 @@
 ---
 title: "17 — Deploy a Marketing Campaign"
+description: "Run a real campaign: one person, one live page, one number you chose in advance, and an honest retro."
 parent: Level 3
 nav_order: 17
 ---

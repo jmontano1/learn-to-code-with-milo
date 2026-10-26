@@ -1,5 +1,6 @@
 ---
 title: "16 — The Launch Track"
+description: "Level 3: building is speaking and launching is being heard. Put work in front of real people and count the result."
 parent: Level 3
 nav_order: 16
 ---

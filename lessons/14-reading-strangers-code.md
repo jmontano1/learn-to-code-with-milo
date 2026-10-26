@@ -1,5 +1,6 @@
 ---
 title: "14 — Reading Strangers' Code"
+description: "Open code you did not write and figure out what it does."
 parent: Level 2
 nav_order: 14
 ---

@@ -1,5 +1,6 @@
 ---
 title: "15 — Fix Something Real"
+description: "Turn an example feedback note into a repro, a hypothesis, a spec, and a small working fix."
 parent: Level 2
 nav_order: 15
 ---
