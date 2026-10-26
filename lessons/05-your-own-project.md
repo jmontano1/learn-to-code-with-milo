@@ -1,8 +1,13 @@
+---
+title: "05 — Your Own Project"
+parent: Level 1
+nav_order: 5
+---
 # Lesson 05 — Build Your Own Project
 
 This is a big one. Up to now you followed the lessons step by step. Now **you're the boss.**
 
-You're going to build a small project that is *yours* — your idea, your choices, your name on it. MILO — the brain — is your tutor, and GetAdvice is MILO's friendly face out in the world, but this project belongs to you.
+You're going to build a small project that is *yours* — your idea, your choices, your name on it. MILO — the brain — is your tutor, and GetAdvice is MILO's friendly face out in the world. This project belongs to you.
 
 Think of it like a **kitchen**. The last lessons taught you how to use the stove, the knife, and the oven. Today you cook your own dish. It doesn't have to be fancy. It just has to be yours.
 
@@ -94,7 +99,7 @@ This is *your* project. There's no rule for how it should look. If you like it, 
 
 ## A note for you
 
-This lesson is different from the earlier ones on purpose. **Nobody handed you the answer.** You picked an idea, described it, and built it piece by piece. That is exactly what real software work feels like — including the work behind the real app you'll help polish, **GetAdvice** (MILO's friendly face, the app real people use to talk to MILO). Every button and screen in it started as someone describing an idea and building it one small piece at a time, just like you did here. When you get to [feedback-getadvice/README.md](../feedback-getadvice/README.md), you'll bring that same eye to a real app.
+This lesson is different from the earlier ones on purpose. **Nobody handed you the answer.** You picked an idea, described it, and built it piece by piece. That is exactly what real software work feels like — including the work behind **[GetAdvice](https://getadviceapp.com/)**, MILO's friendly face, a public app real people use. Every button and screen in it started as someone describing an idea and building it one small piece at a time, just like you did here. When you get to [feedback-getadvice/README.md](../feedback-getadvice/README.md), you'll bring that same eye to it.
 
 You own this project. Be proud of it. 🎉
 

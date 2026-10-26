@@ -1,3 +1,8 @@
+---
+title: "21 — The Swarm"
+parent: Level 4
+nav_order: 21
+---
 # Lesson 21 — The Swarm: Orchestration Under Command
 
 Until now, one program did one job. Today you build **many** — a set of AI agents that work together on a real task, coordinated by a supervisor that keeps command even when a part of the swarm fails, lies, or runs wild. This is the beating heart of MILO itself, and it is where two of the three laws collide: **Adaptive Orchestration** (the swarm bends when the world changes) and **Supervisory Primacy** (you never lose the reins).

@@ -1,3 +1,8 @@
+---
+title: "09 — A Site With Rooms"
+parent: Level 2
+nav_order: 9
+---
 # Lesson 09 — A Site With Rooms
 
 Welcome to your first real build on the Builder's Track. You read the new rules in [lessons/08-level-2-the-builders-track.md](08-level-2-the-builders-track.md): from now on you get the **goal**, not the recipe. You figure out the steps. MILO coaches; you build.

@@ -1,3 +1,8 @@
+---
+title: Roadmap
+parent: Reference
+nav_order: 1
+---
 # Your path from beginner to Architect
 
 Hi! This is your map. 🗺️
@@ -6,7 +11,7 @@ A map does not tell you when you will arrive. It just shows the road, the big st
 
 You do not have to rush. There is no deadline here. You move to the next stage when the one you are on feels comfortable, not when a calendar tells you to.
 
-Along the whole road, **MILO teaches you** — MILO is the brain, your AI tutor, and **GetAdvice** is MILO's friendly face, the app people use to talk to MILO. You meet MILO here inside Claude Code; later you'll help make GetAdvice better.
+Along the whole road, **MILO** (Modular Intelligent Learning Orchestrator) **teaches you** — MILO is the brain, your AI tutor, and **[GetAdvice](https://getadviceapp.com/)** is MILO's friendly face, a real public app. You meet MILO here inside your coding assistant; later you'll practice clear feedback on GetAdvice and review the note yourself.
 
 The road runs through five stages — from your very first page all the way to forging a real empire the world can touch. Read them like a short story about you.
 
@@ -16,11 +21,11 @@ The road runs through five stages — from your very first page all the way to f
 
 ## Stage 1: Now 🌱
 
-**Where you are today.** You have Claude Pro and Claude Code. You are just getting started, and that is exactly the right place to be.
+**Where you are today.** The path this map assumes is Claude Code with a paid Claude plan (Pro or higher). If you are on the fallback in `README.md` — another coding assistant, or a free chat — you are still in the right place. You are just getting started, and that is exactly where this road begins.
 
-> **Claude Pro** is your paid plan for talking to MILO. Think of it like a monthly pass to a gym. It lets you come in and train as much as your pass allows.
+> **A paid Claude plan (Pro or higher)** is the pass this course assumes for Claude Code. Think of it like a monthly pass to a gym. It lets you come in and train as much as your pass allows. The free Claude plan is chat on the web and in the apps. Current plans are listed at [claude.com/pricing](https://claude.com/pricing).
 >
-> **Claude Code** is the app you open on your computer — that is the window where MILO lives, able to read and write real files right there beside you. Think of it like a room where your tutor sits next to you at your desk, instead of one you only chat with through a window.
+> **Claude Code** is the app you open on your computer — that is the window where MILO lives, able to read and write real files right there beside you. Think of it like a room where your tutor sits next to you at your desk, instead of one you only chat with through a window. Another coding assistant can be that same room if you ask it to read `MILO.md`. A free chat is more like passing notes through the window: it can explain, and you do the typing.
 
 ### What you do now
 
@@ -51,7 +56,7 @@ When you can say "I made a page, I styled it, and I made it do something," you h
 
 - Build bigger personal projects in `my-projects/`. Not one page, but a few pages that work together. Pick things *you* actually want. Level 2 hands you exactly this: the Builder's Track opens in `lessons/08-level-2-the-builders-track.md`, and across `lessons/09-a-site-with-rooms.md` through `lessons/12-talking-to-the-internet.md` you grow one app — **Study Buddy**, a quiz app — floor by floor: rooms, logic, memory, then live questions from the web.
 - Get comfortable with the git save flow. Git is how developers save their work so it is never lost. Think of it like a save point in a video game: you can always go back to it. Learn it in `lessons/06-saving-work-with-git.md`.
-- Start giving GetAdvice feedback. GetAdvice is MILO's friendly face, and it is a real app that real people use. You test it and tell the team what felt good and what felt confusing. Learn how in `lessons/07-giving-good-feedback.md`, and use the template in `feedback-getadvice/feedback-template.md`.
+- Practice GetAdvice feedback. GetAdvice is MILO's friendly face, a real public app at [getadviceapp.com](https://getadviceapp.com/). You use it, write one clear note, and review that note yourself. Learn how in `lessons/07-giving-good-feedback.md`, and use the template in `feedback-getadvice/feedback-template.md`.
 
 ### Your milestones for this stage
 
@@ -59,7 +64,7 @@ When you can say "I made a page, I styled it, and I made it do something," you h
 |---|---|
 | A real save point | You make your first git commit and can explain what it saved. |
 | A bigger build | You finish a project with more than one page or one clear feature, all your own. Study Buddy, grown across `lessons/09-a-site-with-rooms.md`–`lessons/12-talking-to-the-internet.md`, counts. |
-| Your first real feedback | You send one clear, kind piece of GetAdvice feedback using the template. |
+| Your first real feedback | You write one clear, kind GetAdvice note with the template, and you can check it against the self-review list. |
 | The save flow feels normal | You save your work with git without needing to look up every step. |
 
 When git feels like a habit and you have sent real feedback that helped a real app, you have finished Stage 2. You are not just learning anymore. You are contributing. 🙌
@@ -73,7 +78,7 @@ When git feels like a habit and you have sent real feedback that helped a real a
 ### What later looks like
 
 - **Scale up your usage.** When you are building most days and your current plan feels tight, that is a signal, not a problem. You can move to a higher Claude plan or simply run more sessions. You grow the tool when your work grows into it.
-- **Take on a small real improvement.** Instead of only practice projects, you pick one small polish item on a real app like GetAdvice and improve it, with guidance. A cleaner button. A clearer message. A small fix. Real work, small and safe. The capstone, `lessons/15-capstone-fix-something-real.md`, walks you through this exact move: your own GetAdvice feedback notes become a real fix proposal.
+- **Take on a small real improvement.** Instead of only practice projects, you pick one small polish item — a cleaner button, a clearer message, a small fix — and write it up the way a team would. Real work, small and safe. The capstone, `lessons/15-capstone-fix-something-real.md`, walks you through this exact move: a shipped example note about GetAdvice becomes a fix proposal you write yourself.
 - **Start reading other people's code.** Until now you wrote your own code. Reading code someone else wrote is a new superpower. It is like learning to read books in a language you were only speaking before. MILO can walk you through any file you do not understand. You train this on purpose in `lessons/13-the-detective-lessons.md` (hunting bugs) and `lessons/14-reading-strangers-code.md` (explaining code you did not write).
 
 ### Your milestones for this stage

@@ -1,3 +1,8 @@
+---
+title: "04 — Make It Do Something"
+parent: Level 1
+nav_order: 4
+---
 # Lesson 04 — Make It Do Something (JavaScript)
 
 Welcome back! So far your page can hold words (HTML) and look nice (CSS). Now we give it **wiring** — the electricity that makes things happen.
@@ -27,7 +32,7 @@ So the plan is simple: when the **click event** happens, run our **function**.
 
 ## Step 1 — Open your project
 
-Open the same folder you have been building in with Claude Code — that's the window where MILO lives. You should already have your `index.html` from [lessons/02-your-first-web-page.md](02-your-first-web-page.md) and your style from [lessons/03-add-style-css.md](03-add-style-css.md).
+Open the same folder you have been building in with Claude Code — that's the window where MILO lives. You should already have your `index.html` from [lessons/02-your-first-web-page.md](02-your-first-web-page.md) and your style from [lessons/03-add-style-css.md](03-add-style-css.md). Same tool note as Lesson 02: a coding assistant that can see the folder can coach you here; a free chat needs you to paste `index.html` into the conversation (`README.md`).
 
 Good. You're ready.
 
@@ -91,7 +96,7 @@ Change one thing. See what happens. Break it, fix it, repeat. That is exactly ho
 
 ## 🎉 Milestone: your page is alive
 
-You built something that **reacts to you**. That is the heart of every app, game, and website you've ever used — including the real app you'll help test soon, **GetAdvice**. GetAdvice is MILO's friendly face, and it's a real app you'll get to polish with your feedback. When you tap a button in GetAdvice and something happens, that's this same idea, just bigger. Now you know the trick behind it.
+You built something that **reacts to you**. That is the heart of every app, game, and website you've ever used — including **[GetAdvice](https://getadviceapp.com/)**, the public app you'll practice feedback on soon. GetAdvice is MILO's friendly face. When you tap a button there and something happens, that's this same idea, just bigger. Now you know the trick behind it.
 
 **Your milestone:** your page now has structure, style, and wiring. It's alive.
 

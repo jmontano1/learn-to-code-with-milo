@@ -1,3 +1,8 @@
+---
+title: "20 — First Blood"
+parent: Level 4
+nav_order: 20
+---
 # Lesson 20 — First Blood: Ship to Real Strangers
 
 In Level 3 you got a stranger to *click*. Today a stranger has to **trust your software with something** — an account, their data, a real action — on a system you took all the way to production. That is a different universe, and crossing into it is called first blood for a reason: it is the moment your work stops being a demo and starts being real, with all the danger that word carries.

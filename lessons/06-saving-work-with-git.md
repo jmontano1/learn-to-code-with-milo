@@ -1,3 +1,8 @@
+---
+title: "06 — Saving Work with Git"
+parent: Level 1
+nav_order: 6
+---
 # Lesson 06 — Saving Your Work with Git 💾
 
 Welcome back! In [lessons/05-your-own-project.md](05-your-own-project.md) you built a real thing from your own idea. You added style. You made it do something when you click. That is a lot.
@@ -59,9 +64,19 @@ Add, commit, push. That is the whole trip.
 
 ## The easy, safe way: just ask MILO 🌟
 
-Here is the good news. You do not have to type any of those commands yourself. Because you are working inside Claude Code, you can just **ask, in plain words**, and MILO will do the three steps for you.
+Here is the good news. You do not have to memorize those commands. Because you are working inside Claude Code — or another assistant that can run commands in this folder — you can just **ask, in plain words**, and MILO will do the three steps for you.
 
-Open Claude Code in your project and paste this:
+> **Tool note — this is a Claude Code feature.** Asking MILO to add, commit, and push only works when the assistant can run commands on your computer. Claude Code can. Many other coding assistants can too. A free chat cannot. If that is you, type these three lines yourself in a terminal, from your project folder, and paste any error back into the chat:
+>
+> ```
+> git add .
+> git commit -m "Describe what you changed"
+> git push
+> ```
+>
+> The first time, Git may ask for your name and email, and GitHub may ask you to sign in. That is normal. The idea of the lesson stays the same: a named snapshot, then a copy online. The full fallback is in `README.md`.
+
+Open Claude Code (or your coding assistant) in your project and paste this:
 
 ```text
 Please save my work with git.
@@ -99,7 +114,7 @@ Git almost never loses work. Because it remembers every checkpoint, mistakes are
 Let's actually save today's work.
 
 1. Make sure you have made at least one small change to your project (even fixing a typo counts).
-2. Paste the first prompt above into Claude Code.
+2. Paste the first prompt above into your assistant. If you are typing the git commands yourself, run the three lines from the tool note above, then continue.
 3. Read MILO's explanation of the three steps as it goes.
 4. When it finishes, MILO will tell you the push succeeded.
 
@@ -142,6 +157,6 @@ You now know how to keep everything you build. That changes everything.
 
 You can build, and you can save. Now for something surprising: you can help make a **real app better**, even before you write a single new feature.
 
-You are going to help polish an app called **GetAdvice** by testing it and telling the team what you find. Doing that well is a genuine skill, and it is your next lesson.
+You are going to practice a real skill on a public app called **GetAdvice**: use it, write down what you find, and review your own note. Doing that well is a genuine skill, and it is your next lesson.
 
 ➡️ Continue to **[lessons/07-giving-good-feedback.md](07-giving-good-feedback.md)**.

@@ -1,6 +1,11 @@
+---
+title: "13 — The Detective Lessons"
+parent: Level 2
+nav_order: 13
+---
 # Lesson 13 — The Detective Lessons
 
-Remember the feedback note you filed when GetAdvice froze? You described what you did, what you expected, and what actually happened. That was detective work. Today you switch sides: you are the one who *reads* the clues and finds the culprit.
+Remember the worked example about GetAdvice freezing (`feedback-getadvice/notes/2026-07-01-app-froze.md`)? It describes what someone did, what they expected, and what actually happened. That was detective work. Today you switch sides: you are the one who *reads* the clues and finds the culprit.
 
 Here is the mindset shift this lesson is about: **an error message is not the page yelling at you. It is the page handing you a clue.** Good coders are not people who never see errors. They are people who read them calmly.
 

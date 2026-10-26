@@ -1,8 +1,13 @@
+---
+title: "15 — Fix Something Real"
+parent: Level 2
+nav_order: 15
+---
 # Lesson 15 — Capstone: Fix Something Real
 
 This is the capstone of the Builder's Track, and it is different from every lesson before it.
 
-The repo ships two **example** feedback notes about GetAdvice — MILO's friendly face — in `feedback-getadvice/notes/`:
+The repo ships two **example** feedback notes about [GetAdvice](https://getadviceapp.com/) — MILO's friendly face, a public app — in `feedback-getadvice/notes/`:
 
 - `2026-07-01-app-froze.md`
 - `2026-07-01-incorrect-info.md`

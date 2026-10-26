@@ -1,3 +1,8 @@
+---
+title: Feedback template
+parent: Reference
+nav_order: 6
+---
 # Feedback Note
 
 This is a template. A template is a fill-in-the-blank form, like a birthday card that already has "Happy Birthday" printed and just leaves a space for the name. You do not start from a blank page. You only fill in the blanks.
@@ -49,4 +54,4 @@ _(Any idea you have. It is totally fine to leave this empty.)_
 
 You wrote a real feedback note. That is a genuine contribution to a live app, not practice work. Nice.
 
-**Next:** hand your note in the way [`feedback-getadvice/README.md`](README.md) describes. Then come back and write another one whenever something catches your eye.
+**Next:** save the note as a new file under `feedback-getadvice/notes/`, then run the self-review checklist in [`feedback-getadvice/README.md`](README.md). Come back and write another one whenever something catches your eye.

@@ -1,3 +1,8 @@
+---
+title: "12 — Talking to the Internet"
+parent: Level 2
+nav_order: 12
+---
 # Lesson 12 — Talking to the Internet
 
 Your Study Buddy is smart now. It has rooms ([lessons/09-a-site-with-rooms.md](09-a-site-with-rooms.md)), logic ([lessons/10-logic-that-thinks.md](10-logic-that-thinks.md)), and memory ([lessons/11-memory-for-your-app.md](11-memory-for-your-app.md)). But it has one weakness: it only knows the questions **you** typed. Once you've played a few rounds, you know all the answers.

@@ -1,10 +1,15 @@
-# Lesson 7: Giving Good Feedback 🔍
+---
+title: "07 — Giving Good Feedback"
+parent: Level 1
+nav_order: 7
+---
+# Lesson 07 — Giving Good Feedback 🔍
 
 You made it to the end of Level 1's core path. That is a real achievement.
 
-Here is something that might surprise you: **you can help make a real app better right now**, before you even know how to build big features. You do it by **testing** the app and telling the team what you find.
+Here is something that might surprise you: **you can practice a skill that makes real apps better**, before you even know how to build big features. You do it by **using** an app and writing down what you find, clearly enough that someone else could see it too.
 
-The app you will help polish is called **GetAdvice** — MILO's friendly face, the app real people use to talk to MILO. Your notes can actually change it.
+The app you will practice on is called **[GetAdvice](https://getadviceapp.com/)** — MILO's friendly face, a real public app. You keep the note in this repo and review it yourself. If you have an instructor, you show them the file.
 
 ---
 
@@ -41,28 +46,33 @@ When you answer those four, anyone reading it knows exactly what to check. That 
 
 ## Screenshots help a lot 📸
 
-A screenshot is a picture of your screen. It shows the team exactly what you saw, so they do not have to imagine it.
+A screenshot is a picture of your screen. It shows a reader exactly what you saw, so they do not have to imagine it.
 
-If something looks wrong, take a screenshot. On a Mac you press **Shift + Command + 4**, then drag a box around the part you want. Then include that picture with your feedback.
+If something looks wrong, take a screenshot and include that picture with your feedback.
 
-A picture plus your four answers is a gift to the team. It turns "I think something was off" into "here, look, this is exactly what I saw."
+- **Mac:** Shift + Command + 4, then drag a box around the part you want.
+- **Windows:** Windows key + Shift + S, then drag a box.
+- **iPhone:** Side button + Volume Up.
+- **Android:** usually Power + Volume Down. Your phone's help page names the exact pair if that misses.
+
+A picture plus your four answers turns "I think something was off" into "here, look, this is exactly what I saw."
 
 ---
 
 ## Where your feedback goes
 
-This repo has a special place just for GetAdvice feedback. Two files matter:
+This repo has a folder just for this practice. Two files matter:
 
-- **feedback-getadvice/README.md** — read this first. It explains how the feedback process works and what the team is hoping to learn from you.
+- **feedback-getadvice/README.md** — read this first. It explains how to write the note and how to review it yourself.
 - **feedback-getadvice/feedback-template.md** — this is a fill-in-the-blank form. It already lists the four questions for you, so you do not have to remember them.
 
-Open the README first, then use the template as your worksheet. The template exists so you never have to stare at a blank page.
+Open the README first, then use the template as your worksheet. The template exists so you never have to stare at a blank page. The two notes already in `feedback-getadvice/notes/` are worked examples. Read them. Write yours as a new file.
 
 ---
 
 ## Let MILO help you write it up
 
-Once you have tried GetAdvice and noticed something, you can ask MILO to help you turn your rough notes into clean, clear feedback. Paste something like this to MILO in Claude Code:
+Once you have tried GetAdvice and noticed something, you can ask MILO to help you turn your rough notes into clean, clear feedback. Paste something like this to MILO. A free chat can help with the wording too — paste your rough notes and the template. You still supply the facts.
 
 ```
 I tested the GetAdvice app and I want to write clear feedback.
@@ -84,20 +94,20 @@ MILO will help you shape it, and it will ask you for anything you left out, like
 Let's ship your first real piece of feedback.
 
 1. Open **feedback-getadvice/README.md** and read it.
-2. Open the GetAdvice app and use it like a curious first-time visitor. Poke around. Try to break things gently.
+2. Open **[getadviceapp.com](https://getadviceapp.com/)** (or the GetAdvice iPhone app) and use it like a curious first-time visitor. Poke around. Try a real question. If you cannot open it, use your own project from `my-projects/` and say so at the top of the note.
 3. When something is confusing or broken, jot down your four answers: what you did, what you expected, what happened, and why it matters.
 4. Take a screenshot if it helps.
-5. Copy **feedback-getadvice/feedback-template.md**, fill it in (MILO can help), and submit it the way the README describes.
+5. Copy **feedback-getadvice/feedback-template.md** into a new file under `feedback-getadvice/notes/`, fill it in (MILO can help with wording), and run the self-review checklist in the README.
 
-One clear piece of feedback is plenty. Quality beats quantity.
+One clear note is plenty. Quality beats quantity.
 
 ---
 
-## 🎉 Milestone: you submitted your first structured feedback
+## 🎉 Milestone: you wrote your first structured feedback
 
-You just did something real. Your notes are now something the GetAdvice team can act on. That is not "practice" work. That is a genuine contribution to a live product, from you.
+You just did something real. You used an app, wrote down what happened, and checked your own note against the four questions. That is how professionals report a problem.
 
-Builders build. Testers protect. Today you were both.
+Builders build. Reviewers protect. Today you practiced both.
 
 ---
 
@@ -109,7 +119,7 @@ Look at everything you can do now:
 - You built a web page, styled it, and made it interactive.
 - You started your own project.
 - You save and back up your work with git and GitHub.
-- You give feedback that actually helps a real app.
+- You give feedback that a stranger could follow.
 
 That is a complete, real foundation. Be proud. 🎉
 
@@ -117,6 +127,8 @@ That is a complete, real foundation. Be proud. 🎉
 
 ## What's next
 
-The core path is done, but the journey keeps going. Your **roadmap.md** shows what to explore next and how to keep leveling up at your own pace.
+Level 1's core path is done. Level 2 starts now, and it changes the rules: goals instead of recipes.
 
-➡️ Open **roadmap.md** to choose your next adventure.
+➡️ Open **[lessons/08-level-2-the-builders-track.md](08-level-2-the-builders-track.md)**.
+
+The wide map of every stage lives in **[roadmap.md](../roadmap.md)** whenever you want it.

@@ -27,3 +27,21 @@ node_modules/
 
 # Log files — scratch notes some programs write while they run.
 *.log
+
+# Editor leftovers and agent scratch. Yours, not part of the course.
+.cursor/
+*.swp
+*~
+
+# Build leftovers a later project might create. Safe to skip.
+dist/
+coverage/
+__pycache__/
+.venv/
+
+# Jekyll / GitHub Pages build output and local gems. Not part of the course.
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/

@@ -1,4 +1,9 @@
-# Lesson 03: Make It Look Good with CSS
+---
+title: "03 — Make It Look Good"
+parent: Level 1
+nav_order: 3
+---
+# Lesson 03 — Make It Look Good with CSS
 
 You made a real web page in `lessons/02-your-first-web-page.md`. Nice work. Right now it *works*, but it probably looks a little plain, black text on a white page, like a page torn out of a notebook.
 
@@ -51,7 +56,7 @@ Okay, enough menu-reading. Let's cook.
 
 Same rule as last time: **you type it.** MILO coaches, your hands do the work. That's how it sticks.
 
-Make sure Claude Code is working inside your `my-projects/` folder, next to the `index.html` you made in Lesson 02.
+Make sure your assistant is working inside your `my-projects/` folder, next to the `index.html` you made in Lesson 02. Claude Code can see that file. Another coding assistant can too, once this repo is open. A free chat cannot: paste your `index.html` into the chat when you ask for help. The fallback is in `README.md`.
 
 Now paste this exact prompt:
 
@@ -138,7 +143,7 @@ Lock in the win:
 - **Take a screenshot** of your restyled page.
 - **Compare them side by side** — the plain version next to the styled version tells the whole story of what you learned today.
 
-> This "change → see → adjust" instinct you just practiced is the *exact* skill you'll lean on when you help polish the real GetAdvice app, spotting when something looks a little off and describing how to make it better. You're building that eye right now.
+> This "change → see → adjust" instinct you just practiced is the *exact* skill you'll lean on when you practice feedback on the public GetAdvice app, spotting when something looks a little off and describing how to make it better. You're building that eye right now.
 
 ## What's next
 

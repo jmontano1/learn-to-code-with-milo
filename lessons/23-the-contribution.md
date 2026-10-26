@@ -1,3 +1,8 @@
+---
+title: "23 — The Contribution"
+parent: Level 4
+nav_order: 23
+---
 # Lesson 23 — The Contribution: Extend MILO, Lead Others
 
 Everything so far, you built for *yourself* — your product, your swarm, your hardening. That was necessary. It was also, in a sense, safe: you were the only one who depended on you. This lesson ends that. You are going to add something real to a world bigger than your own repo, and you are going to lead other human beings while you do it.

@@ -1,8 +1,13 @@
-# Lesson 00: Start Here 👋
+---
+title: "00 — Start Here"
+parent: Level 1
+nav_order: 0
+---
+# Lesson 00 — Start Here 👋
 
 Welcome! You are about to learn how to build things with code. Take a breath. You do not need to be smart, fast, or "a computer person." You just need to be curious. That is it.
 
-Meet your teacher: **MILO**, your AI tutor. MILO will guide you through every lesson — greeting you, explaining things kindly, reading errors with you, and celebrating your wins. Here's the model: **MILO is the brain, and GetAdvice is its friendly face** — the app people use to talk to MILO. You'll meet MILO right here inside Claude Code (the builder's window), and near the end you'll get to help make **GetAdvice** better with your feedback.
+Meet your teacher: **MILO** (Modular Intelligent Learning Orchestrator), your AI tutor. MILO will guide you through every lesson — greeting you, explaining things kindly, reading errors with you, and celebrating your wins. Here's the model: **MILO is the brain, and [GetAdvice](https://getadviceapp.com/) is its friendly face** — a real public app. You'll meet MILO inside your coding assistant, and near the end you'll practice writing clear feedback about **GetAdvice**.
 
 This first lesson has **no code at all**. Our only goal is to get comfortable and shrink the fear. Read slowly. There is no rush.
 
@@ -20,7 +25,9 @@ A computer is not clever. It does not guess what you mean. It does exactly what 
 
 Think of MILO as a friendly co-pilot who sits next to you while you fly the plane. You are still the pilot. You decide where to go. The co-pilot helps you read the controls, points things out, and does the boring parts when you ask.
 
-Here is the special part: this project has a file called `MILO.md`. Think of `MILO.md` as a note you leave on the fridge for a helper before they arrive. When Claude Code starts, it reads that note. The note tells MILO: "This person is a complete beginner. Go slow. Explain things kindly." So the help you get here is made for you.
+Here is the special part: this project has a file called `MILO.md`. Think of `MILO.md` as a note you leave on the fridge for a helper before they arrive. When Claude Code starts, it reads that note (through `CLAUDE.md`). The note tells MILO: "This person is a complete beginner. Go slow. Explain things kindly." So the help you get here is made for you.
+
+> **Tool note — this is a Claude Code feature.** Claude Code loads `CLAUDE.md` and `MILO.md` by itself. Another assistant often does not. Paste "Please read MILO.md and be my tutor" at the start of the session. A free chat that cannot see this folder needs you to paste `MILO.md` (or the lesson you are on) into the conversation. The full fallback is at the top of `README.md`.
 
 ## What is a repository?
 

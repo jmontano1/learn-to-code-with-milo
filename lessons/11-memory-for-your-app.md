@@ -1,3 +1,8 @@
+---
+title: "11 — Memory for Your App"
+parent: Level 2
+nav_order: 11
+---
 # Lesson 11 — Memory For Your App
 
 Here's an experiment. Open your Study Buddy from [lessons/10-logic-that-thinks.md](10-logic-that-thinks.md), play a round, get a great score... then hit refresh.

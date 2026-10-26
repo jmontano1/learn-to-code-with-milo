@@ -1,3 +1,8 @@
+---
+title: "18 — The Growth Engine"
+parent: Level 3
+nav_order: 18
+---
 # Lesson 18 — The Growth Engine: Advanced AI Marketing
 
 Lesson 17 was the hardest lesson so far. This one is harder, and it is harder on purpose.
