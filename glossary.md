@@ -66,7 +66,7 @@ A mistake in your code that makes it behave in a way you did not want. Every cod
 The app you use to look at web pages, like Chrome, Safari, or Firefox. Think of it like a window that turns code into the pages you see and click on.
 
 **MILO**
-Your friendly AI tutor — the brain behind the lessons. MILO greets you, explains things, reads the errors with you, and celebrates your wins. MILO is the brain; **GetAdvice** is MILO's friendly face, the app people use to talk to MILO. Think of MILO like a patient coding buddy sitting right next to you, ready to explain anything and help you build. That is the buddy this whole repo teaches you to work with.
+Short for **Modular Intelligent Learning Orchestrator**. Your friendly AI tutor — the brain behind the lessons. MILO greets you, explains things, reads the errors with you, and celebrates your wins. MILO is the brain; **GetAdvice** (a real public app at [getadviceapp.com](https://getadviceapp.com/)) is MILO's friendly face. Think of MILO like a patient coding buddy sitting right next to you, ready to explain anything and help you build. That is the buddy this whole repo teaches you to work with.
 
 **Claude Code**
 The app you open on your computer. It can read and write your real files and run commands for you. Think of it like the window where MILO lives: you open the repo in Claude Code, and MILO is right there to teach you.
@@ -102,7 +102,7 @@ A helper that checks your code automatically every time you save it to GitHub, a
 You do **not** need this one yet. No lesson so far uses it — it's here just so the word isn't a total stranger the day you first bump into it.
 
 **Terminal**
-A text window where you type commands to your computer instead of clicking buttons. Think of it like sending short written instructions to your computer, and it writes back. It looks a little scary at first, then it becomes your friend. Good news: in these lessons you save your work by simply asking MILO, so you will not need the terminal for a long while.
+A text window where you type commands to your computer instead of clicking buttons. Think of it like sending short written instructions to your computer, and it writes back. It looks a little scary at first, then it becomes your friend. If your assistant can run commands, you can ask MILO to save your work. If you are in a free chat that cannot touch your files, Lesson 06 shows the three short commands you type here yourself.
 
 ---
 

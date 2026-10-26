@@ -1,5 +1,7 @@
 # Feedback Note
 
+> **Worked example.** This note ships with the course so you can see a finished report. Read it. Leave it unchanged. Your own notes are new files in this same folder.
+
 **Title:** Gave incorrect information about coding topics
 
 **What I was doing:** I asked GetAdvice which apps I could use for coding, what AI model it is, and when it was last updated.

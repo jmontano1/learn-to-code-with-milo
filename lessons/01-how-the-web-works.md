@@ -1,4 +1,4 @@
-# Lesson 1: How the Web Works 🌐
+# Lesson 01 — How the Web Works 🌐
 
 In the last lesson (`lessons/00-start-here.md`) you toured the repo. Nice work. Now let's understand what a web page actually **is**, before you build one.
 
@@ -32,7 +32,7 @@ Keep this table in your back pocket. For the rest of these lessons, whenever you
 
 Let's watch the three parts team up in one tiny example. You will not type anything yet. You are just going to *look*, and let MILO point out which part is which.
 
-Copy this prompt and paste it to MILO in Claude Code:
+Copy this prompt and paste it to MILO. In Claude Code, that is the project chat. In any other assistant, the same prompt works — this one does not need the assistant to see your files.
 
 ```
 Show me the smallest possible web page that uses all three: HTML, CSS,
@@ -44,7 +44,7 @@ complete beginner.
 
 When MILO's answer comes back, read it slowly and match each labeled part to the table above. You are not memorizing anything. You are just training your eye to spot structure, style, and wiring.
 
-> Fun connection: **GetAdvice** — MILO's friendly face, and the real app you'll help test later — is built from these same three parts, just a lot more of them, stacked together. Every big app starts from exactly what you are looking at right now.
+> Fun connection: **[GetAdvice](https://getadviceapp.com/)** — MILO's friendly face, the public app you'll practice feedback on later — is built from these same three parts, just a lot more of them, stacked together. Every big app starts from exactly what you are looking at right now.
 
 ## 🎉 Milestone: you know what a web page is made of
 

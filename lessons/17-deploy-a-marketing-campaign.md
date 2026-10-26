@@ -26,7 +26,7 @@ Small is not the problem. Fake is the problem. One real signup you can name beat
 
 - **Study Buddy** — the quiz app you built in Level 2. Promote it to people who want to study smarter.
 - **Your journey** — "I'm learning to code with AI in public." Promote a page where people can follow along.
-- **GetAdvice** — MILO's real face on the App Store. Promote it to someone who'd actually use it.
+- **GetAdvice** — MILO's friendly face, a public app. Start at [getadviceapp.com](https://getadviceapp.com/) (there is also an iPhone app). Promote it to someone who'd actually use it.
 
 **Now the hard part: pick your one person.** Not "students." Not "everyone." *One human you could name or picture completely.* A marketer's first law: if you write for everyone, you move no one.
 

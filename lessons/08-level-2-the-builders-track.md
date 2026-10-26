@@ -2,7 +2,7 @@
 
 Stop for a second and look at what you just did.
 
-You finished **all seven lessons** of Level 1. You built **two projects** with your own hands. You made **real git commits** — actual save points a real developer would recognize. And you wrote **real feedback** on a live app — the kind of clear, kind note a real developer files. That feedback is not homework; it's a contribution to a product people use.
+You finished **lessons 00 through 07** of Level 1. You built **two projects** with your own hands. You made **real git commits** — actual save points a real developer would recognize. And you wrote **real feedback** — the kind of clear, kind note a real developer files, then checked it yourself.
 
 Most people never get this far. You did it in one run. So here is your reward: **things get harder now.** On purpose. Welcome to the Builder's Track.
 
@@ -26,6 +26,8 @@ The house analogy still holds — HTML is the structure, CSS is the paint, JS is
 ## Coach mode: the most important prompt you'll learn
 
 In Level 1 you pasted prompts that asked MILO to build things. From now on, you ask MILO to **coach**. Here is the pattern — learn its shape, because you will write your own versions of it constantly:
+
+> **Tool note.** Coach mode works in Claude Code and in any other assistant. The assistant reviews better when it can see your file. If yours cannot, paste the file into the chat along with the prompt. Details are in `README.md`.
 
 ```text
 I'm trying to [your goal]. Don't write the code for me — ask me

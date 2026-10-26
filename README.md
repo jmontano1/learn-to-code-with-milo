@@ -1,16 +1,34 @@
 # Learn to code with MILO 🌟
 
-Hi! You are about to learn to code and build things with AI — for the very first time. That feels exciting, a little scary, and completely normal. This repo is your friendly classroom, and MILO (an AI tutor) is your guide.
+Hi! You are about to learn to code and build things with AI — for the very first time. That feels exciting, a little scary, and completely normal. This repo is your friendly classroom, and **MILO** (Modular Intelligent Learning Orchestrator), an AI tutor, is your guide.
 
 A **repo** (short for "repository") is just a folder that holds all the files for a project and keeps a history of every change. Think of it like a school binder with a memory: it remembers every page you ever wrote.
 
-You don't need to know anything yet. You just need to show up and stay curious. **MILO** — your AI tutor — will be your patient guide, one small step at a time. This is what learning to build looks like now: you and an AI, side by side. Here's the model: **MILO is the brain, and GetAdvice is its friendly face** — the app people use to talk to MILO. For these lessons you'll meet MILO right here inside Claude Code (the builder's window), and later you'll even help make **GetAdvice** better.
+You don't need to know anything yet. You just need to show up and stay curious. **MILO** will be your patient guide, one small step at a time. This is what learning to build looks like now: you and an AI, side by side. Here's the model: **MILO is the brain, and [GetAdvice](https://getadviceapp.com/) is its friendly face** — a real public app people use to talk through a decision. For these lessons you'll meet MILO inside a coding assistant, and later you'll practice writing clear feedback about **GetAdvice**.
+
+## What you need
+
+This course assumes two things:
+
+1. **Claude Code** — the coding app where MILO can see this folder and walk beside you. Install it from [claude.com/claude-code](https://claude.com/claude-code).
+2. **A paid Claude subscription (Pro or higher).** Claude Code is included with paid Claude plans: Pro, Max, Team, and Enterprise. The free Claude plan is chat on the web, desktop, and mobile. You can also sign in to Claude Code with pay-as-you-go usage from a Claude Console account. Plan names and prices change, so read the current list at [claude.com/pricing](https://claude.com/pricing) before you pay for anything.
+
+### If you don't have Claude Code or a paid plan
+
+You can still take the course. Every lesson is a Markdown file, and every prompt is plain text.
+
+- **Another AI coding assistant** — any tool that can open this folder and edit files, such as Cursor, GitHub Copilot's coding agent, Gemini CLI, or OpenAI Codex. Claude Code loads `CLAUDE.md` (and through it `MILO.md`) when a session starts. Other tools often wait until you ask. Start every session by pasting: "Please read MILO.md and follow it as my tutor."
+- **A free chat** — the free Claude plan, or another free chatbot. It can explain and coach when you paste the lesson and your code. You create the files yourself, because a chat window has no view of this folder and cannot run commands. When a lesson says the tutor will edit a file or run git, you do that step by hand and paste any error back into the chat.
+
+Lessons that need a coding agent — it must see your files, or it must run git — say so in the lesson and point back here.
+
+These pages are Markdown. GitHub shows them as formatted pages. A website host that only serves raw files will show the `#` marks and dashes; publishing to a site needs a Markdown renderer (GitHub Pages, or any static generator that understands GitHub-flavored Markdown, including tables).
 
 ## The only thing to do right now
 
 Don't try to read everything. Do this one thing:
 
-1. Open this repo in **Claude Code**. That's the window where MILO lives, right inside your project, like texting a helper who can see your files.
+1. Open this repo in **Claude Code**. If you are on the fallback above, open it in that other assistant instead, and paste the message below so it reads `MILO.md`. Claude Code is the window where MILO lives, right inside your project, like texting a helper who can see your files.
 2. Copy the message below, paste it to MILO, and press Enter.
 
 ```
@@ -30,11 +48,24 @@ Here is everything in this repo and what each part is for. You don't need to ope
 | `roadmap.md` | The big picture: where you are now and what comes next. |
 | `glossary.md` | A friendly dictionary of coding words, in plain English. |
 | `my-projects/` | The place where you build your own creations. See `my-projects/README.md`. |
-| `feedback-getadvice/` | Where you help polish a real app called GetAdvice by testing it. See `feedback-getadvice/README.md`. |
+| `feedback-getadvice/` | Where you practice clear feedback on the public GetAdvice app, then review your own note. See `feedback-getadvice/README.md`. |
+
+## Level 1 — the ladder 🌱
+
+Lessons 00–07 are recipes. You follow them in order. When you finish — a page built, styles added, a button wired, work saved with git, one feedback note reviewed — you are ready for Level 2.
+
+- [lessons/00-start-here.md](lessons/00-start-here.md) — How this classroom works, and how to talk to MILO.
+- [lessons/01-how-the-web-works.md](lessons/01-how-the-web-works.md) — What a website is made of.
+- [lessons/02-your-first-web-page.md](lessons/02-your-first-web-page.md) — Your first page (HTML).
+- [lessons/03-add-style-css.md](lessons/03-add-style-css.md) — Make it look good (CSS).
+- [lessons/04-make-it-interactive-js.md](lessons/04-make-it-interactive-js.md) — Make it do something (JavaScript).
+- [lessons/05-your-own-project.md](lessons/05-your-own-project.md) — Build something that is yours.
+- [lessons/06-saving-work-with-git.md](lessons/06-saving-work-with-git.md) — Save your work with Git.
+- [lessons/07-giving-good-feedback.md](lessons/07-giving-good-feedback.md) — Write clear feedback, and review it yourself.
 
 ## Level 2 — The Builder's Track 🔨
 
-The lessons above (00–07) are Level 1: the ladder. When you finish it — pages built, styles added, buttons wired, work saved with git, real feedback sent — you are ready for the next deal. Level 2 stops handing you recipes and starts handing you **goals**. MILO switches from chef to coach: it asks you questions until *you* can write the code, then reviews what you wrote. You grow one real app across four lessons, learn to hunt bugs and read strangers' code, and finish by improving a real product.
+Level 2 hands you **goals**. MILO switches from chef to coach: it asks you questions until *you* can write the code, then reviews what you wrote. You grow one real app across four lessons, learn to hunt bugs and read strangers' code, and finish by writing a real fix proposal.
 
 - [lessons/08-level-2-the-builders-track.md](lessons/08-level-2-the-builders-track.md) — The new rules: goals instead of recipes, and how to ask MILO to coach, not solve.
 - [lessons/09-a-site-with-rooms.md](lessons/09-a-site-with-rooms.md) — Start **Study Buddy**, your quiz app: build its shell as pages that work together.
@@ -43,7 +74,7 @@ The lessons above (00–07) are Level 1: the ladder. When you finish it — page
 - [lessons/12-talking-to-the-internet.md](lessons/12-talking-to-the-internet.md) — Teach it to fetch fresh questions from the web.
 - [lessons/13-the-detective-lessons.md](lessons/13-the-detective-lessons.md) — Switch hats: hunt bugs on purpose instead of stumbling into them.
 - [lessons/14-reading-strangers-code.md](lessons/14-reading-strangers-code.md) — Open code you did not write and figure out what it does.
-- [lessons/15-capstone-fix-something-real.md](lessons/15-capstone-fix-something-real.md) — The capstone: turn your own GetAdvice feedback into a real fix proposal.
+- [lessons/15-capstone-fix-something-real.md](lessons/15-capstone-fix-something-real.md) — The capstone: turn an example GetAdvice note into a real fix proposal you write yourself.
 
 ## Level 3 — The Launch Track 🚀
 

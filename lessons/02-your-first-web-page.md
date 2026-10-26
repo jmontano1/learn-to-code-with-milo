@@ -1,4 +1,4 @@
-# Lesson 02: Your First Web Page
+# Lesson 02 — Your First Web Page
 
 Welcome back! In the last lesson (`lessons/01-how-the-web-works.md`) you learned what a web page is made of. Now you get to build one. A real one. Your own. 🎉
 
@@ -30,11 +30,13 @@ The little `/` in a closing tag (like `</p>`) just means "this part ends here." 
 
 That's all the theory. You'll understand it much better by *doing* it, so let's build.
 
-## Step 1: Open Claude Code in your projects folder
+## Step 1: Open your assistant in your projects folder
 
 You already have a folder called `my-projects/` (see `my-projects/README.md`). That's your workshop. Everything you build lives there.
 
 Open Claude Code — that's the window where MILO lives — and make sure you're working inside `my-projects/`. If you're not sure, just ask MILO. Paste this:
+
+> **Tool note.** This step wants an assistant that can see the project folder. Claude Code can. So can other coding assistants, once you open this repo in them. A free chat cannot see the folder: create `my-projects/index.html` yourself in any text editor, and paste questions about what to type. See `README.md`.
 
 ```
 I'm a total beginner. Am I currently working inside my my-projects folder? If not, please help me get there. Explain each step in plain words.
@@ -46,7 +48,7 @@ Here's the important part: **you are going to type the code yourself.** Not copy
 
 So instead of asking MILO to *write* the file, you'll ask MILO to *coach* you while you write it.
 
-Paste this exact prompt into Claude Code:
+Paste this exact prompt into Claude Code, or into whatever assistant you opened this repo with:
 
 ```
 I'm a complete beginner making my very first web page, and I want to type it myself so I actually learn.
@@ -121,7 +123,7 @@ Two things to lock in the win:
 - **Take a screenshot** of your page in the browser.
 - **Share it with whoever gave you this repo.** Seriously. Send it. This is worth being proud of, and they'll want to see it. 😄
 
-> By the way: this same "type it, see it, change it, break it, fix it" muscle is exactly what you'll use later when you help test the real GetAdvice app and give it feedback (see `feedback-getadvice/README.md`). GetAdvice is MILO's friendly face, and it's a real app you'll help polish. You're already training for it.
+> By the way: this same "type it, see it, change it, break it, fix it" muscle is exactly what you'll use later when you practice feedback on the public GetAdvice app (see `feedback-getadvice/README.md`). GetAdvice is MILO's friendly face. You're already training for it.
 
 ## What's next
 
