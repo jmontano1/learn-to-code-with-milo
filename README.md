@@ -28,7 +28,7 @@ You can still take the course. Every lesson is a Markdown file, and every prompt
 
 Lessons that need a coding agent — it must see your files, or it must run git — say so in the lesson and point back here.
 
-These pages are Markdown. GitHub shows them as formatted pages, and this repo publishes the same pages as a website with the Just the Docs theme: a sidebar grouped by level, lessons in order, and this README as the home page. That site is what [milousa.com](https://milousa.com) will serve once GitHub Pages and DNS point here. Tables and the other formatting need GitHub-flavored Markdown, which that theme provides.
+These pages are Markdown. GitHub shows them as formatted pages, and this repo publishes the same pages as a website with the Just the Docs theme: a sidebar grouped by level, lessons in order, and this README as the home page. That site is what [milo-usa.com](https://milo-usa.com) will serve once GitHub Pages and DNS point here. Tables and the other formatting need GitHub-flavored Markdown, which that theme provides.
 
 ## The only thing to do right now
 
